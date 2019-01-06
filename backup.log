@@ -1,0 +1,5000 @@
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 09:40:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 09:40:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 09:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 09:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 46,874 bytes  received 83 bytes  93,914.00 bytes/sec
+total size is 91,848,155  speedup is 1,956.01
+ 
+### Backup script backup...   Fri  4 Jan 09:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 09:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 09:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 10:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 10:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,160 bytes  received 102 bytes  116,524.00 bytes/sec
+total size is 91,848,429  speedup is 1,576.47
+ 
+### Backup script backup...   Fri  4 Jan 10:00:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 10:00:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 10:00:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 10:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 10:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,330 bytes  received 102 bytes  38,954.67 bytes/sec
+total size is 91,850,876  speedup is 1,571.93
+ 
+### Backup script backup...   Fri  4 Jan 10:10:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 10:10:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 10:10:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 10:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 10:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,503 bytes  received 102 bytes  117,210.00 bytes/sec
+total size is 91,853,592  speedup is 1,567.33
+ 
+### Backup script backup...   Fri  4 Jan 10:20:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 10:20:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 10:20:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 10:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 10:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,691 bytes  received 102 bytes  117,586.00 bytes/sec
+total size is 91,856,743  speedup is 1,562.38
+ 
+### Backup script backup...   Fri  4 Jan 10:30:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 10:30:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 10:30:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 10:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 10:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,795 bytes  received 102 bytes  39,264.67 bytes/sec
+total size is 91,858,463  speedup is 1,559.65
+ 
+### Backup script backup...   Fri  4 Jan 10:40:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 10:40:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 10:40:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 10:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 10:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,928 bytes  received 102 bytes  118,060.00 bytes/sec
+total size is 91,860,622  speedup is 1,556.17
+ 
+### Backup script backup...   Fri  4 Jan 10:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 10:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 10:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 11:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 11:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,019 bytes  received 102 bytes  118,242.00 bytes/sec
+total size is 91,862,342  speedup is 1,553.80
+ 
+### Backup script backup...   Fri  4 Jan 11:00:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 11:00:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 11:00:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 11:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 11:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,121 bytes  received 102 bytes  118,446.00 bytes/sec
+total size is 91,864,062  speedup is 1,551.16
+ 
+### Backup script backup...   Fri  4 Jan 11:10:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 11:10:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 11:10:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 11:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 11:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,311 bytes  received 102 bytes  39,608.67 bytes/sec
+total size is 91,866,290  speedup is 1,546.23
+ 
+### Backup script backup...   Fri  4 Jan 11:20:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 11:20:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 11:20:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 11:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 11:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,427 bytes  received 102 bytes  119,058.00 bytes/sec
+total size is 91,868,009  speedup is 1,543.25
+ 
+### Backup script backup...   Fri  4 Jan 11:30:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 11:30:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 11:30:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 11:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 11:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,538 bytes  received 102 bytes  39,760.00 bytes/sec
+total size is 91,869,729  speedup is 1,540.40
+ 
+### Backup script backup...   Fri  4 Jan 11:40:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 11:40:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 11:40:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 11:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 11:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,727 bytes  received 102 bytes  119,658.00 bytes/sec
+total size is 91,872,138  speedup is 1,535.58
+ 
+### Backup script backup...   Fri  4 Jan 11:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 11:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 11:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 12:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 12:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,883 bytes  received 102 bytes  119,970.00 bytes/sec
+total size is 91,874,703  speedup is 1,531.63
+ 
+### Backup script backup...   Fri  4 Jan 12:00:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 12:00:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 12:00:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 12:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 12:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 60,304 bytes  received 102 bytes  40,270.67 bytes/sec
+total size is 91,880,564  speedup is 1,521.05
+ 
+### Backup script backup...   Fri  4 Jan 12:10:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 12:10:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 12:10:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 12:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 12:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 60,730 bytes  received 102 bytes  121,664.00 bytes/sec
+total size is 91,886,989  speedup is 1,510.50
+ 
+### Backup script backup...   Fri  4 Jan 12:20:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 12:20:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 12:20:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 12:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 12:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 61,101 bytes  received 102 bytes  122,406.00 bytes/sec
+total size is 91,892,298  speedup is 1,501.43
+ 
+### Backup script backup...   Fri  4 Jan 12:30:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 12:30:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 12:30:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 12:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 12:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,344 bytes  received 102 bytes  116,892.00 bytes/sec
+total size is 91,849,774  speedup is 1,571.53
+ 
+### Backup script backup...   Fri  4 Jan 12:40:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 12:40:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 12:40:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 12:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 12:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,489 bytes  received 102 bytes  117,182.00 bytes/sec
+total size is 91,851,933  speedup is 1,567.68
+ 
+### Backup script backup...   Fri  4 Jan 12:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 12:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 12:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 13:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 13:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,581 bytes  received 102 bytes  39,122.00 bytes/sec
+total size is 91,853,654  speedup is 1,565.25
+ 
+### Backup script backup...   Fri  4 Jan 13:00:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 13:00:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 13:00:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 13:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 13:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,702 bytes  received 102 bytes  117,608.00 bytes/sec
+total size is 91,855,373  speedup is 1,562.06
+ 
+### Backup script backup...   Fri  4 Jan 13:10:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 13:10:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 13:10:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 13:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 13:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,865 bytes  received 102 bytes  117,934.00 bytes/sec
+total size is 91,857,573  speedup is 1,557.78
+ 
+### Backup script backup...   Fri  4 Jan 13:20:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 13:20:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 13:20:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 13:30:02 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 13:30:02 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,050 bytes  received 102 bytes  118,304.00 bytes/sec
+total size is 91,860,835  speedup is 1,552.96
+ 
+### Backup script backup...   Fri  4 Jan 13:30:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 13:30:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 13:30:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 13:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 13:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,216 bytes  received 102 bytes  118,636.00 bytes/sec
+total size is 91,863,221  speedup is 1,548.66
+ 
+### Backup script backup...   Fri  4 Jan 13:40:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 13:40:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 13:40:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 13:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 13:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,430 bytes  received 102 bytes  119,064.00 bytes/sec
+total size is 91,866,536  speedup is 1,543.15
+ 
+### Backup script backup...   Fri  4 Jan 13:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 13:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 13:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 14:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 14:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,667 bytes  received 102 bytes  119,538.00 bytes/sec
+total size is 91,869,715  speedup is 1,537.08
+ 
+### Backup script backup...   Fri  4 Jan 14:00:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 14:00:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 14:00:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 14:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 14:10:01 GMT 2019
+sending incremental file list
+john/nohup.out
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,433 bytes  received 121 bytes  117,108.00 bytes/sec
+total size is 91,849,162  speedup is 1,568.62
+ 
+### Backup script backup...   Fri  4 Jan 14:10:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 14:10:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 14:10:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 14:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 14:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,534 bytes  received 102 bytes  39,090.67 bytes/sec
+total size is 91,851,138  speedup is 1,566.46
+ 
+### Backup script backup...   Fri  4 Jan 14:20:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 14:20:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 14:20:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 14:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 14:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,834 bytes  received 102 bytes  117,872.00 bytes/sec
+total size is 91,854,895  speedup is 1,558.55
+ 
+### Backup script backup...   Fri  4 Jan 14:30:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 14:30:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 14:30:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 14:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 14:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,952 bytes  received 102 bytes  118,108.00 bytes/sec
+total size is 91,856,616  speedup is 1,555.47
+ 
+### Backup script backup...   Fri  4 Jan 14:40:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 14:40:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 14:40:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 14:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 14:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,060 bytes  received 102 bytes  118,324.00 bytes/sec
+total size is 91,858,336  speedup is 1,552.66
+ 
+### Backup script backup...   Fri  4 Jan 14:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 14:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 14:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 15:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 15:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,191 bytes  received 102 bytes  39,528.67 bytes/sec
+total size is 91,860,323  speedup is 1,549.26
+ 
+### Backup script backup...   Fri  4 Jan 15:00:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 15:00:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 15:00:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 15:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 15:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,299 bytes  received 102 bytes  118,802.00 bytes/sec
+total size is 91,862,043  speedup is 1,546.47
+ 
+### Backup script backup...   Fri  4 Jan 15:10:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 15:10:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 15:10:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 15:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 15:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,385 bytes  received 102 bytes  118,974.00 bytes/sec
+total size is 91,863,763  speedup is 1,544.27
+ 
+### Backup script backup...   Fri  4 Jan 15:20:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 15:20:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 15:20:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 15:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 15:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,559 bytes  received 102 bytes  39,774.00 bytes/sec
+total size is 91,866,122  speedup is 1,539.80
+ 
+### Backup script backup...   Fri  4 Jan 15:30:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 15:30:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 15:30:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 15:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 15:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,732 bytes  received 102 bytes  119,668.00 bytes/sec
+total size is 91,868,720  speedup is 1,535.39
+ 
+### Backup script backup...   Fri  4 Jan 15:40:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 15:40:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 15:40:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 15:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 15:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,895 bytes  received 102 bytes  119,994.00 bytes/sec
+total size is 91,871,428  speedup is 1,531.27
+ 
+### Backup script backup...   Fri  4 Jan 15:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 15:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 15:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 16:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 16:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 60,082 bytes  received 102 bytes  120,368.00 bytes/sec
+total size is 91,874,209  speedup is 1,526.56
+ 
+### Backup script backup...   Fri  4 Jan 16:00:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 16:00:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 16:00:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 16:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 16:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 60,453 bytes  received 102 bytes  121,110.00 bytes/sec
+total size is 91,879,619  speedup is 1,517.29
+ 
+### Backup script backup...   Fri  4 Jan 16:10:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 16:10:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 16:10:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 16:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 16:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,594 bytes  received 102 bytes  39,130.67 bytes/sec
+total size is 91,849,311  speedup is 1,564.83
+ 
+### Backup script backup...   Fri  4 Jan 16:20:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 16:20:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 16:20:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 16:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 16:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,882 bytes  received 102 bytes  117,968.00 bytes/sec
+total size is 91,852,896  speedup is 1,557.25
+ 
+### Backup script backup...   Fri  4 Jan 16:30:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 16:30:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 16:30:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 16:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 16:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,994 bytes  received 102 bytes  118,192.00 bytes/sec
+total size is 91,854,616  speedup is 1,554.33
+ 
+### Backup script backup...   Fri  4 Jan 16:40:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 16:40:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 16:40:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 16:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 16:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,084 bytes  received 102 bytes  39,457.33 bytes/sec
+total size is 91,856,336  speedup is 1,551.99
+ 
+### Backup script backup...   Fri  4 Jan 16:50:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 16:50:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 16:50:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 17:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 17:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,232 bytes  received 102 bytes  118,668.00 bytes/sec
+total size is 91,858,495  speedup is 1,548.16
+ 
+### Backup script backup...   Fri  4 Jan 17:00:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 17:00:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 17:00:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 17:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 17:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,341 bytes  received 102 bytes  118,886.00 bytes/sec
+total size is 91,860,215  speedup is 1,545.35
+ 
+### Backup script backup...   Fri  4 Jan 17:10:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 17:10:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 17:10:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 17:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 17:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,444 bytes  received 102 bytes  39,697.33 bytes/sec
+total size is 91,861,935  speedup is 1,542.71
+ 
+### Backup script backup...   Fri  4 Jan 17:20:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 17:20:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 17:20:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 17:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 17:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,655 bytes  received 102 bytes  119,514.00 bytes/sec
+total size is 91,864,899  speedup is 1,537.31
+ 
+### Backup script backup...   Fri  4 Jan 17:30:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 17:30:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 17:30:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 17:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 17:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,846 bytes  received 102 bytes  119,896.00 bytes/sec
+total size is 91,868,044  speedup is 1,532.46
+ 
+### Backup script backup...   Fri  4 Jan 17:40:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 17:40:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 17:40:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 17:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 17:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 60,022 bytes  received 102 bytes  120,248.00 bytes/sec
+total size is 91,870,234  speedup is 1,528.01
+ 
+### Backup script backup...   Fri  4 Jan 17:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 17:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 17:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 18:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 18:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 46,898 bytes  received 83 bytes  93,962.00 bytes/sec
+total size is 91,870,235  speedup is 1,955.48
+ 
+### Backup script backup...   Fri  4 Jan 18:10:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 18:10:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 18:10:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 18:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 18:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 46,910 bytes  received 83 bytes  93,986.00 bytes/sec
+total size is 91,870,268  speedup is 1,954.98
+ 
+### Backup script backup...   Fri  4 Jan 18:20:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 18:20:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 18:20:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 18:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 18:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 46,906 bytes  received 83 bytes  31,326.00 bytes/sec
+total size is 91,870,244  speedup is 1,955.14
+ 
+### Backup script backup...   Fri  4 Jan 18:30:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 18:30:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 18:30:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 18:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 18:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 46,918 bytes  received 83 bytes  94,002.00 bytes/sec
+total size is 91,870,264  speedup is 1,954.64
+ 
+### Backup script backup...   Fri  4 Jan 18:40:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 18:40:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 18:40:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 18:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 18:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 46,924 bytes  received 83 bytes  31,338.00 bytes/sec
+total size is 91,870,298  speedup is 1,954.40
+ 
+### Backup script backup...   Fri  4 Jan 18:50:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 18:50:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 18:50:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 19:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 19:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 46,922 bytes  received 83 bytes  94,010.00 bytes/sec
+total size is 91,870,274  speedup is 1,954.48
+ 
+### Backup script backup...   Fri  4 Jan 19:00:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 19:00:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 19:00:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 19:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 19:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 46,921 bytes  received 83 bytes  94,008.00 bytes/sec
+total size is 91,870,272  speedup is 1,954.52
+ 
+### Backup script backup...   Fri  4 Jan 19:10:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 19:10:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 19:10:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 19:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 19:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 46,918 bytes  received 83 bytes  31,334.00 bytes/sec
+total size is 91,870,270  speedup is 1,954.65
+ 
+### Backup script backup...   Fri  4 Jan 19:20:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 19:20:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 19:20:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 19:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 19:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 46,917 bytes  received 83 bytes  94,000.00 bytes/sec
+total size is 91,870,275  speedup is 1,954.69
+ 
+### Backup script backup...   Fri  4 Jan 19:30:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 19:30:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 19:30:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 19:40:02 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 19:40:02 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 46,907 bytes  received 83 bytes  93,980.00 bytes/sec
+total size is 91,870,302  speedup is 1,955.10
+ 
+### Backup script backup...   Fri  4 Jan 19:40:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 19:40:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 19:40:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 19:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 19:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 46,905 bytes  received 83 bytes  93,976.00 bytes/sec
+total size is 91,870,279  speedup is 1,955.19
+ 
+### Backup script backup...   Fri  4 Jan 19:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 19:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 19:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 20:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 20:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 60,032 bytes  received 102 bytes  120,268.00 bytes/sec
+total size is 91,870,495  speedup is 1,527.76
+ 
+### Backup script backup...   Fri  4 Jan 20:00:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 20:00:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 20:00:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 20:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 20:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 60,200 bytes  received 102 bytes  120,604.00 bytes/sec
+total size is 91,872,942  speedup is 1,523.55
+ 
+### Backup script backup...   Fri  4 Jan 20:10:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 20:10:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 20:10:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 20:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 20:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 60,471 bytes  received 102 bytes  121,146.00 bytes/sec
+total size is 91,877,090  speedup is 1,516.80
+ 
+### Backup script backup...   Fri  4 Jan 20:20:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 20:20:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 20:20:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 20:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 20:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 60,575 bytes  received 102 bytes  40,451.33 bytes/sec
+total size is 91,878,810  speedup is 1,514.23
+ 
+### Backup script backup...   Fri  4 Jan 20:30:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 20:30:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 20:30:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 20:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 20:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 60,670 bytes  received 102 bytes  121,544.00 bytes/sec
+total size is 91,880,530  speedup is 1,511.89
+ 
+### Backup script backup...   Fri  4 Jan 20:40:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 20:40:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 20:40:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 20:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 20:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 60,821 bytes  received 102 bytes  121,846.00 bytes/sec
+total size is 91,882,517  speedup is 1,508.17
+ 
+### Backup script backup...   Fri  4 Jan 20:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 20:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 20:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 21:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 21:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 60,922 bytes  received 102 bytes  40,682.67 bytes/sec
+total size is 91,884,238  speedup is 1,505.71
+ 
+### Backup script backup...   Fri  4 Jan 21:00:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 21:00:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 21:00:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 21:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 21:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 61,034 bytes  received 102 bytes  122,272.00 bytes/sec
+total size is 91,885,957  speedup is 1,502.98
+ 
+### Backup script backup...   Fri  4 Jan 21:10:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 21:10:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 21:10:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 21:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 21:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 61,193 bytes  received 102 bytes  122,590.00 bytes/sec
+total size is 91,888,488  speedup is 1,499.12
+ 
+### Backup script backup...   Fri  4 Jan 21:20:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 21:20:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 21:20:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 21:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 21:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 61,306 bytes  received 102 bytes  40,938.67 bytes/sec
+total size is 91,890,813  speedup is 1,496.40
+ 
+### Backup script backup...   Fri  4 Jan 21:30:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 21:30:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 21:30:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 21:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 21:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 61,433 bytes  received 102 bytes  123,070.00 bytes/sec
+total size is 91,893,137  speedup is 1,493.35
+ 
+### Backup script backup...   Fri  4 Jan 21:40:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 21:40:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 21:40:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Fri  4 Jan 21:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Fri  4 Jan 21:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 61,651 bytes  received 102 bytes  123,506.00 bytes/sec
+total size is 91,896,319  speedup is 1,488.13
+ 
+### Backup script backup...   Fri  4 Jan 21:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Fri  4 Jan 21:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Fri  4 Jan 21:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 11:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 11:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 61,735 bytes  received 102 bytes  123,674.00 bytes/sec
+total size is 91,897,388  speedup is 1,486.12
+ 
+### Backup script backup...   Sat  5 Jan 11:10:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 11:10:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 11:10:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 11:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 11:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 61,968 bytes  received 102 bytes  124,140.00 bytes/sec
+total size is 91,900,579  speedup is 1,480.60
+ 
+### Backup script backup...   Sat  5 Jan 11:20:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 11:20:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 11:20:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 11:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 11:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,246 bytes  received 102 bytes  116,696.00 bytes/sec
+total size is 91,844,492  speedup is 1,574.08
+ 
+### Backup script backup...   Sat  5 Jan 11:30:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 11:30:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 11:30:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 11:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 11:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 46,928 bytes  received 83 bytes  31,340.67 bytes/sec
+total size is 91,844,493  speedup is 1,953.68
+ 
+### Backup script backup...   Sat  5 Jan 11:40:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 11:40:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 11:40:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 16:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 16:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,297 bytes  received 102 bytes  116,798.00 bytes/sec
+total size is 91,844,758  speedup is 1,572.71
+ 
+### Backup script backup...   Sat  5 Jan 16:00:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 16:00:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 16:00:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 16:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 16:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,513 bytes  received 102 bytes  117,230.00 bytes/sec
+total size is 91,847,638  speedup is 1,566.96
+ 
+### Backup script backup...   Sat  5 Jan 16:10:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 16:10:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 16:10:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 16:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 16:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,649 bytes  received 102 bytes  117,502.00 bytes/sec
+total size is 91,849,658  speedup is 1,563.37
+ 
+### Backup script backup...   Sat  5 Jan 16:20:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 16:20:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 16:20:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 16:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 16:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,925 bytes  received 102 bytes  39,351.33 bytes/sec
+total size is 91,853,245  speedup is 1,556.12
+ 
+### Backup script backup...   Sat  5 Jan 16:30:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 16:30:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 16:30:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 16:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 16:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,016 bytes  received 102 bytes  118,236.00 bytes/sec
+total size is 91,854,964  speedup is 1,553.76
+ 
+### Backup script backup...   Sat  5 Jan 16:40:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 16:40:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 16:40:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 16:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 16:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,119 bytes  received 102 bytes  118,442.00 bytes/sec
+total size is 91,856,684  speedup is 1,551.08
+ 
+### Backup script backup...   Sat  5 Jan 16:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 16:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 16:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 17:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 17:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,244 bytes  received 102 bytes  39,564.00 bytes/sec
+total size is 91,858,672  speedup is 1,547.85
+ 
+### Backup script backup...   Sat  5 Jan 17:00:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 17:00:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 17:00:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 17:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 17:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,354 bytes  received 102 bytes  118,912.00 bytes/sec
+total size is 91,860,391  speedup is 1,545.01
+ 
+### Backup script backup...   Sat  5 Jan 17:10:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 17:10:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 17:10:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 17:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 17:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,470 bytes  received 102 bytes  119,144.00 bytes/sec
+total size is 91,862,111  speedup is 1,542.04
+ 
+### Backup script backup...   Sat  5 Jan 17:20:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 17:20:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 17:20:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 17:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 17:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,676 bytes  received 102 bytes  39,852.00 bytes/sec
+total size is 91,865,248  speedup is 1,536.77
+ 
+### Backup script backup...   Sat  5 Jan 17:30:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 17:30:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 17:30:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 17:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 17:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,815 bytes  received 102 bytes  119,834.00 bytes/sec
+total size is 91,867,572  speedup is 1,533.25
+ 
+### Backup script backup...   Sat  5 Jan 17:40:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 17:40:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 17:40:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 17:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 17:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,978 bytes  received 102 bytes  120,160.00 bytes/sec
+total size is 91,869,995  speedup is 1,529.13
+ 
+### Backup script backup...   Sat  5 Jan 17:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 17:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 17:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 18:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 18:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 60,222 bytes  received 102 bytes  40,216.00 bytes/sec
+total size is 91,873,548  speedup is 1,523.00
+ 
+### Backup script backup...   Sat  5 Jan 18:00:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 18:00:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 18:00:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 18:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 18:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 60,673 bytes  received 102 bytes  121,550.00 bytes/sec
+total size is 91,879,715  speedup is 1,511.80
+ 
+### Backup script backup...   Sat  5 Jan 18:10:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 18:10:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 18:10:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 18:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 18:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,630 bytes  received 102 bytes  39,154.67 bytes/sec
+total size is 91,848,625  speedup is 1,563.86
+ 
+### Backup script backup...   Sat  5 Jan 18:20:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 18:20:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 18:20:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 18:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 18:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,728 bytes  received 102 bytes  117,660.00 bytes/sec
+total size is 91,850,345  speedup is 1,561.28
+ 
+### Backup script backup...   Sat  5 Jan 18:30:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 18:30:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 18:30:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 18:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 18:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,824 bytes  received 102 bytes  39,284.00 bytes/sec
+total size is 91,852,065  speedup is 1,558.77
+ 
+### Backup script backup...   Sat  5 Jan 18:40:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 18:40:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 18:40:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 18:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 18:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,966 bytes  received 102 bytes  118,136.00 bytes/sec
+total size is 91,854,051  speedup is 1,555.06
+ 
+### Backup script backup...   Sat  5 Jan 18:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 18:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 18:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 19:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 19:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,061 bytes  received 102 bytes  118,326.00 bytes/sec
+total size is 91,855,771  speedup is 1,552.59
+ 
+### Backup script backup...   Sat  5 Jan 19:00:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 19:00:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 19:00:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 19:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 19:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,183 bytes  received 102 bytes  39,523.33 bytes/sec
+total size is 91,857,492  speedup is 1,549.42
+ 
+### Backup script backup...   Sat  5 Jan 19:10:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 19:10:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 19:10:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 19:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 19:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,366 bytes  received 102 bytes  118,936.00 bytes/sec
+total size is 91,859,961  speedup is 1,544.70
+ 
+### Backup script backup...   Sat  5 Jan 19:20:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 19:20:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 19:20:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 19:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 19:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,505 bytes  received 102 bytes  119,214.00 bytes/sec
+total size is 91,862,397  speedup is 1,541.13
+ 
+### Backup script backup...   Sat  5 Jan 19:30:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 19:30:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 19:30:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 19:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 19:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,744 bytes  received 102 bytes  39,897.33 bytes/sec
+total size is 91,865,853  speedup is 1,535.04
+ 
+### Backup script backup...   Sat  5 Jan 19:40:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 19:40:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 19:40:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 19:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 19:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,987 bytes  received 102 bytes  120,178.00 bytes/sec
+total size is 91,869,382  speedup is 1,528.89
+ 
+### Backup script backup...   Sat  5 Jan 19:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 19:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 19:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 20:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 20:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,438 bytes  received 102 bytes  117,080.00 bytes/sec
+total size is 91,846,541  speedup is 1,568.95
+ 
+### Backup script backup...   Sat  5 Jan 20:00:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 20:00:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 20:00:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 20:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 20:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,633 bytes  received 102 bytes  39,156.67 bytes/sec
+total size is 91,849,421  speedup is 1,563.79
+ 
+### Backup script backup...   Sat  5 Jan 20:10:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 20:10:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 20:10:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 20:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 20:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,878 bytes  received 102 bytes  117,960.00 bytes/sec
+total size is 91,853,478  speedup is 1,557.37
+ 
+### Backup script backup...   Sat  5 Jan 20:20:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 20:20:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 20:20:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 20:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 20:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,970 bytes  received 102 bytes  118,144.00 bytes/sec
+total size is 91,855,199  speedup is 1,554.97
+ 
+### Backup script backup...   Sat  5 Jan 20:30:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 20:30:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 20:30:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 20:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 20:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,062 bytes  received 102 bytes  39,442.67 bytes/sec
+total size is 91,856,919  speedup is 1,552.58
+ 
+### Backup script backup...   Sat  5 Jan 20:40:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 20:40:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 20:40:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 20:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 20:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,165 bytes  received 102 bytes  118,534.00 bytes/sec
+total size is 91,858,638  speedup is 1,549.91
+ 
+### Backup script backup...   Sat  5 Jan 20:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 20:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 20:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 21:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 21:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,317 bytes  received 102 bytes  118,838.00 bytes/sec
+total size is 91,860,798  speedup is 1,545.98
+ 
+### Backup script backup...   Sat  5 Jan 21:00:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 21:00:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 21:00:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 21:10:02 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 21:10:02 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,424 bytes  received 102 bytes  119,052.00 bytes/sec
+total size is 91,862,518  speedup is 1,543.23
+ 
+### Backup script backup...   Sat  5 Jan 21:10:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 21:10:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 21:10:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 21:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 21:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,580 bytes  received 102 bytes  119,364.00 bytes/sec
+total size is 91,864,988  speedup is 1,539.24
+ 
+### Backup script backup...   Sat  5 Jan 21:20:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 21:20:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 21:20:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 21:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 21:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,719 bytes  received 102 bytes  119,642.00 bytes/sec
+total size is 91,867,425  speedup is 1,535.71
+ 
+### Backup script backup...   Sat  5 Jan 21:30:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 21:30:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 21:30:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 21:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 21:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,856 bytes  received 102 bytes  39,972.00 bytes/sec
+total size is 91,869,861  speedup is 1,532.24
+ 
+### Backup script backup...   Sat  5 Jan 21:40:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 21:40:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 21:40:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 21:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 21:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 60,048 bytes  received 102 bytes  120,300.00 bytes/sec
+total size is 91,872,539  speedup is 1,527.39
+ 
+### Backup script backup...   Sat  5 Jan 21:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 21:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 21:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 22:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 22:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 60,261 bytes  received 102 bytes  120,726.00 bytes/sec
+total size is 91,875,484  speedup is 1,522.05
+ 
+### Backup script backup...   Sat  5 Jan 22:00:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 22:00:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 22:00:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 22:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 22:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 60,646 bytes  received 102 bytes  40,498.67 bytes/sec
+total size is 91,881,433  speedup is 1,512.50
+ 
+### Backup script backup...   Sat  5 Jan 22:10:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 22:10:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 22:10:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 22:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 22:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,535 bytes  received 102 bytes  117,274.00 bytes/sec
+total size is 91,849,457  speedup is 1,566.41
+ 
+### Backup script backup...   Sat  5 Jan 22:20:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 22:20:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 22:20:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sat  5 Jan 22:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sat  5 Jan 22:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,650 bytes  received 102 bytes  117,504.00 bytes/sec
+total size is 91,851,177  speedup is 1,563.37
+ 
+### Backup script backup...   Sat  5 Jan 22:30:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sat  5 Jan 22:30:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sat  5 Jan 22:30:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 10:00:18 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 10:00:18 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 58,799 bytes  received 102 bytes  117,802.00 bytes/sec
+total size is 91,853,137  speedup is 1,559.45
+ 
+### Backup script backup...   Sun  6 Jan 10:00:18 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 10:00:18 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 10:00:18 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 10:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 10:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,058 bytes  received 102 bytes  118,320.00 bytes/sec
+total size is 91,857,394  speedup is 1,552.69
+ 
+### Backup script backup...   Sun  6 Jan 10:10:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 10:10:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 10:10:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 10:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 10:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/manageCron
+john/scripts/rclone.log
+
+sent 59,633 bytes  received 121 bytes  119,508.00 bytes/sec
+total size is 91,861,816  speedup is 1,537.33
+ 
+### Backup script backup...   Sun  6 Jan 10:20:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 10:20:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 10:20:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 10:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 10:30:01 GMT 2019
+sending incremental file list
+deleting john/scripts/rclone-books-copy.log
+deleting john/scripts/Debian_Build.sh
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,578 bytes  received 172 bytes  39,833.33 bytes/sec
+total size is 91,860,799  speedup is 1,537.42
+ 
+### Backup script backup...   Sun  6 Jan 10:30:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 10:30:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 10:30:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 10:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 10:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,682 bytes  received 102 bytes  119,568.00 bytes/sec
+total size is 91,862,424  speedup is 1,536.57
+ 
+### Backup script backup...   Sun  6 Jan 10:40:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 10:40:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 10:40:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 10:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 10:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 47,014 bytes  received 83 bytes  94,194.00 bytes/sec
+total size is 91,862,424  speedup is 1,950.49
+ 
+### Backup script backup...   Sun  6 Jan 10:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 10:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 10:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 11:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 11:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 47,020 bytes  received 83 bytes  94,206.00 bytes/sec
+total size is 91,862,400  speedup is 1,950.25
+ 
+### Backup script backup...   Sun  6 Jan 11:00:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 11:00:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 11:00:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 11:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 11:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 47,020 bytes  received 83 bytes  94,206.00 bytes/sec
+total size is 91,862,376  speedup is 1,950.24
+ 
+### Backup script backup...   Sun  6 Jan 11:10:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 11:10:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 11:10:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 11:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 11:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.sh
+
+sent 47,536 bytes  received 102 bytes  95,276.00 bytes/sec
+total size is 91,862,512  speedup is 1,928.35
+ 
+### Backup script backup...   Sun  6 Jan 11:20:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 11:20:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 11:20:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 11:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 11:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,744 bytes  received 102 bytes  39,897.33 bytes/sec
+total size is 91,862,623  speedup is 1,534.98
+ 
+### Backup script backup...   Sun  6 Jan 11:30:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 11:30:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 11:30:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 11:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 11:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone.log
+
+sent 59,959 bytes  received 102 bytes  120,122.00 bytes/sec
+total size is 91,865,205  speedup is 1,529.53
+ 
+### Backup script backup...   Sun  6 Jan 11:40:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 11:40:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 11:40:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 11:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 11:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclone-mygames-07-01-19.log
+john/scripts/rclone.log
+
+sent 60,232 bytes  received 121 bytes  40,235.33 bytes/sec
+total size is 91,868,027  speedup is 1,522.18
+ 
+### Backup script backup...   Sun  6 Jan 11:50:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 11:50:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 11:50:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 12:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 12:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 47,074 bytes  received 83 bytes  94,314.00 bytes/sec
+total size is 91,868,016  speedup is 1,948.13
+ 
+### Backup script backup...   Sun  6 Jan 12:00:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 12:00:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 12:00:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 12:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 12:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 47,068 bytes  received 83 bytes  94,302.00 bytes/sec
+total size is 91,868,042  speedup is 1,948.38
+ 
+### Backup script backup...   Sun  6 Jan 12:10:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 12:10:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 12:10:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 12:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 12:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 47,071 bytes  received 83 bytes  31,436.00 bytes/sec
+total size is 91,868,065  speedup is 1,948.26
+ 
+### Backup script backup...   Sun  6 Jan 12:20:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 12:20:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 12:20:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 12:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 12:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 47,087 bytes  received 83 bytes  94,340.00 bytes/sec
+total size is 91,868,090  speedup is 1,947.60
+ 
+### Backup script backup...   Sun  6 Jan 12:30:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 12:30:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 12:30:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 12:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 12:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 47,086 bytes  received 83 bytes  94,338.00 bytes/sec
+total size is 91,868,067  speedup is 1,947.64
+ 
+### Backup script backup...   Sun  6 Jan 12:40:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 12:40:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 12:40:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 12:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 12:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclonebrowser/
+john/scripts/rclonebrowser/RcloneBrowser-1.2.tar.gz
+john/scripts/rclonebrowser/RcloneBrowser-1.2/
+john/scripts/rclonebrowser/RcloneBrowser-1.2/CHANGELOG.md
+john/scripts/rclonebrowser/RcloneBrowser-1.2/CMakeLists.txt
+john/scripts/rclonebrowser/RcloneBrowser-1.2/LICENSE
+john/scripts/rclonebrowser/RcloneBrowser-1.2/README.md
+john/scripts/rclonebrowser/RcloneBrowser-1.2/VERSION
+john/scripts/rclonebrowser/RcloneBrowser-1.2/_config.yml
+john/scripts/rclonebrowser/RcloneBrowser-1.2/bootstrap.cmd
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeCache.txt
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/Makefile
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/cmake_install.cmake
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/CMakeDirectoryInformation.cmake
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/CMakeOutput.log
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/CMakeRuleHashes.txt
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/Makefile.cmake
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/Makefile2
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/TargetDirectories.txt
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/cmake.check_cache
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/feature_tests.bin
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/feature_tests.c
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/feature_tests.cxx
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/progress.marks
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/3.7.2/
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/3.7.2/CMakeCCompiler.cmake
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/3.7.2/CMakeCXXCompiler.cmake
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/3.7.2/CMakeDetermineCompilerABI_C.bin
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/3.7.2/CMakeDetermineCompilerABI_CXX.bin
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/3.7.2/CMakeSystem.cmake
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/3.7.2/CompilerIdC/
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/3.7.2/CompilerIdC/CMakeCCompilerId.c
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/3.7.2/CompilerIdC/a.out
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/3.7.2/CompilerIdCXX/
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/3.7.2/CompilerIdCXX/a.out
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/CMakeFiles/CMakeTmp/
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/build/
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/Makefile
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/cmake_install.cmake
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_export_dialog.cpp_parameters
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_icon_cache.cpp_parameters
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_item_model.cpp_parameters
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_job_widget.cpp_parameters
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_main_window.cpp_parameters
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_mount_widget.cpp_parameters
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_preferences_dialog.cpp_parameters
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_progress_dialog.cpp_parameters
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_remote_widget.cpp_parameters
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_stream_widget.cpp_parameters
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_transfer_dialog.cpp_parameters
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/resources.qrc.depends
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/CMakeDirectoryInformation.cmake
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/progress.marks
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/DependInfo.cmake
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/build.make
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/cmake_clean.cmake
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/depend.make
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/flags.make
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/link.txt
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/progress.make
+john/scripts/rclonebrowser/RcloneBrowser-1.2/debian/
+john/scripts/rclonebrowser/RcloneBrowser-1.2/debian/changelog
+john/scripts/rclonebrowser/RcloneBrowser-1.2/debian/compat
+john/scripts/rclonebrowser/RcloneBrowser-1.2/debian/control
+john/scripts/rclonebrowser/RcloneBrowser-1.2/debian/copyright
+john/scripts/rclonebrowser/RcloneBrowser-1.2/debian/rules
+john/scripts/rclonebrowser/RcloneBrowser-1.2/debian/source/
+john/scripts/rclonebrowser/RcloneBrowser-1.2/debian/source/format
+john/scripts/rclonebrowser/RcloneBrowser-1.2/scripts/
+john/scripts/rclonebrowser/RcloneBrowser-1.2/scripts/images2ico.py
+john/scripts/rclonebrowser/RcloneBrowser-1.2/scripts/prepare_icons.sh
+john/scripts/rclonebrowser/RcloneBrowser-1.2/scripts/rclone-browser.desktop
+john/scripts/rclonebrowser/RcloneBrowser-1.2/scripts/release_macOS.sh
+john/scripts/rclonebrowser/RcloneBrowser-1.2/scripts/release_windows.cmd
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/CMakeLists.txt
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/Info.plist
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/export_dialog.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/export_dialog.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/export_dialog.ui
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/icon.icns
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/icon.ico
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/icon.png
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/icon_cache.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/icon_cache.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/item_model.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/item_model.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/job_widget.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/job_widget.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/job_widget.ui
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/main.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/main_window.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/main_window.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/main_window.ui
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/mount_widget.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/mount_widget.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/mount_widget.ui
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/osx_helper.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/osx_helper.mm
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/pch.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/pch.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/preferences_dialog.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/preferences_dialog.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/preferences_dialog.ui
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/progress_dialog.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/progress_dialog.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/progress_dialog.ui
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/remote_widget.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/remote_widget.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/remote_widget.ui
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/resources.qrc
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/resources.rc
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/stream_widget.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/stream_widget.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/stream_widget.ui
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/transfer_dialog.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/transfer_dialog.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/transfer_dialog.ui
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/utils.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/utils.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/images/
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/images/amazon_cloud_drive.png
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/images/b2.png
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/images/crypt.png
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/images/drive.png
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/images/dropbox.png
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/images/google_cloud_storage.png
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/images/hubic.png
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/images/local.png
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/images/onedrive.png
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/images/s3.png
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/images/swift.png
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/images/unknown.png
+john/scripts/rclonebrowser/RcloneBrowser-1.2/src/images/yandex.png
+
+sent 1,078,781 bytes  received 2,508 bytes  240,286.44 bytes/sec
+total size is 93,330,849  speedup is 86.31
+ 
+### Backup script backup...   Sun  6 Jan 12:50:05 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 12:50:05 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 12:50:05 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 13:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 13:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/build/rclone-browser
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_export_dialog.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_icon_cache.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_item_model.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_job_widget.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_main_window.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_mount_widget.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_preferences_dialog.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_progress_dialog.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_remote_widget.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_stream_widget.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/moc_transfer_dialog.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/qrc_resources.cpp
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/ui_export_dialog.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/ui_job_widget.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/ui_main_window.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/ui_mount_widget.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/ui_preferences_dialog.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/ui_progress_dialog.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/ui_remote_widget.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/ui_stream_widget.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/ui_transfer_dialog.h
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/CXX.includecache
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/depend.internal
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/depend.make
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/export_dialog.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/icon_cache.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/item_model.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/job_widget.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/main.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/main_window.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/moc_export_dialog.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/moc_icon_cache.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/moc_item_model.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/moc_job_widget.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/moc_main_window.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/moc_mount_widget.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/moc_preferences_dialog.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/moc_progress_dialog.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/moc_remote_widget.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/moc_stream_widget.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/moc_transfer_dialog.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/mount_widget.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/pch.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/preferences_dialog.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/progress_dialog.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/qrc_resources.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/remote_widget.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/stream_widget.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/transfer_dialog.cpp.o
+john/scripts/rclonebrowser/RcloneBrowser-1.2/build/src/CMakeFiles/rclone-browser.dir/utils.cpp.o
+
+sent 1,054,905 bytes  received 1,089 bytes  703,996.00 bytes/sec
+total size is 99,257,076  speedup is 93.99
+ 
+### Backup script backup...   Sun  6 Jan 13:00:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 13:00:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 13:00:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 13:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 13:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,533 bytes  received 112 bytes  35,763.33 bytes/sec
+total size is 99,260,212  speedup is 1,850.32
+ 
+### Backup script backup...   Sun  6 Jan 13:10:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 13:10:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 13:10:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 13:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 13:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,552 bytes  received 112 bytes  107,328.00 bytes/sec
+total size is 99,260,189  speedup is 1,849.66
+ 
+### Backup script backup...   Sun  6 Jan 13:20:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 13:20:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 13:20:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 13:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 13:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,572 bytes  received 112 bytes  35,789.33 bytes/sec
+total size is 99,260,211  speedup is 1,848.97
+ 
+### Backup script backup...   Sun  6 Jan 13:30:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 13:30:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 13:30:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 13:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 13:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,570 bytes  received 112 bytes  107,364.00 bytes/sec
+total size is 99,260,246  speedup is 1,849.04
+ 
+### Backup script backup...   Sun  6 Jan 13:40:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 13:40:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 13:40:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 13:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 13:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,578 bytes  received 112 bytes  107,380.00 bytes/sec
+total size is 99,260,223  speedup is 1,848.77
+ 
+### Backup script backup...   Sun  6 Jan 13:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 13:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 13:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 14:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 14:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,566 bytes  received 112 bytes  107,356.00 bytes/sec
+total size is 99,260,223  speedup is 1,849.18
+ 
+### Backup script backup...   Sun  6 Jan 14:00:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 14:00:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 14:00:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 14:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 14:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,568 bytes  received 112 bytes  35,786.67 bytes/sec
+total size is 99,260,223  speedup is 1,849.11
+ 
+### Backup script backup...   Sun  6 Jan 14:10:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 14:10:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 14:10:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 14:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 14:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,562 bytes  received 112 bytes  107,348.00 bytes/sec
+total size is 99,260,228  speedup is 1,849.32
+ 
+### Backup script backup...   Sun  6 Jan 14:20:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 14:20:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 14:20:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 14:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 14:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,548 bytes  received 112 bytes  107,320.00 bytes/sec
+total size is 99,260,258  speedup is 1,849.80
+ 
+### Backup script backup...   Sun  6 Jan 14:30:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 14:30:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 14:30:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 14:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 14:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,542 bytes  received 112 bytes  35,769.33 bytes/sec
+total size is 99,260,236  speedup is 1,850.01
+ 
+### Backup script backup...   Sun  6 Jan 14:40:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 14:40:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 14:40:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 14:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 14:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,535 bytes  received 112 bytes  107,294.00 bytes/sec
+total size is 99,260,213  speedup is 1,850.25
+ 
+### Backup script backup...   Sun  6 Jan 14:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 14:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 14:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 15:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 15:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,536 bytes  received 112 bytes  35,765.33 bytes/sec
+total size is 99,260,240  speedup is 1,850.21
+ 
+### Backup script backup...   Sun  6 Jan 15:00:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 15:00:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 15:00:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 15:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 15:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,536 bytes  received 112 bytes  107,296.00 bytes/sec
+total size is 99,260,265  speedup is 1,850.21
+ 
+### Backup script backup...   Sun  6 Jan 15:10:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 15:10:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 15:10:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 15:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 15:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,524 bytes  received 112 bytes  35,757.33 bytes/sec
+total size is 99,260,292  speedup is 1,850.63
+ 
+### Backup script backup...   Sun  6 Jan 15:20:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 15:20:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 15:20:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 15:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 15:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,515 bytes  received 112 bytes  35,751.33 bytes/sec
+total size is 99,260,269  speedup is 1,850.94
+ 
+### Backup script backup...   Sun  6 Jan 15:30:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 15:30:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 15:30:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 15:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 15:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,520 bytes  received 112 bytes  107,264.00 bytes/sec
+total size is 99,260,295  speedup is 1,850.77
+ 
+### Backup script backup...   Sun  6 Jan 15:40:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 15:40:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 15:40:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 15:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 15:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,502 bytes  received 112 bytes  107,228.00 bytes/sec
+total size is 99,260,321  speedup is 1,851.39
+ 
+### Backup script backup...   Sun  6 Jan 15:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 15:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 15:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 16:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 16:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,502 bytes  received 112 bytes  107,228.00 bytes/sec
+total size is 99,260,348  speedup is 1,851.39
+ 
+### Backup script backup...   Sun  6 Jan 16:00:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 16:00:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 16:00:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 16:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 16:10:01 GMT 2019
+sending incremental file list
+john/git/
+john/git/jsb0227/
+john/git/jsb0227/README.md
+john/scripts/backup.log
+
+sent 53,691 bytes  received 139 bytes  35,886.67 bytes/sec
+total size is 99,260,375  speedup is 1,843.96
+ 
+### Backup script backup...   Sun  6 Jan 16:10:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 16:10:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 16:10:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 16:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 16:20:01 GMT 2019
+sending incremental file list
+john/git/jsb0227/README.md
+john/scripts/backup.log
+
+sent 53,733 bytes  received 133 bytes  107,732.00 bytes/sec
+total size is 99,260,400  speedup is 1,842.73
+ 
+### Backup script backup...   Sun  6 Jan 16:20:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 16:20:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 16:20:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 16:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 16:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,614 bytes  received 114 bytes  35,818.67 bytes/sec
+total size is 99,260,404  speedup is 1,847.46
+ 
+### Backup script backup...   Sun  6 Jan 16:30:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 16:30:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 16:30:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 16:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 16:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,623 bytes  received 114 bytes  107,474.00 bytes/sec
+total size is 99,260,430  speedup is 1,847.15
+ 
+### Backup script backup...   Sun  6 Jan 16:40:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 16:40:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 16:40:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 16:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 16:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,626 bytes  received 114 bytes  35,826.67 bytes/sec
+total size is 99,260,408  speedup is 1,847.05
+ 
+### Backup script backup...   Sun  6 Jan 16:50:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 16:50:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 16:50:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 17:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 17:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,613 bytes  received 114 bytes  107,454.00 bytes/sec
+total size is 99,260,422  speedup is 1,847.50
+ 
+### Backup script backup...   Sun  6 Jan 17:00:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 17:00:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 17:00:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 17:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 17:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,609 bytes  received 114 bytes  35,815.33 bytes/sec
+total size is 99,260,449  speedup is 1,847.63
+ 
+### Backup script backup...   Sun  6 Jan 17:10:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 17:10:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 17:10:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 17:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 17:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,604 bytes  received 114 bytes  107,436.00 bytes/sec
+total size is 99,260,425  speedup is 1,847.81
+ 
+### Backup script backup...   Sun  6 Jan 17:20:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 17:20:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 17:20:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 17:30:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 17:30:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,617 bytes  received 114 bytes  35,820.67 bytes/sec
+total size is 99,260,431  speedup is 1,847.36
+ 
+### Backup script backup...   Sun  6 Jan 17:30:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 17:30:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 17:30:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 17:40:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 17:40:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,619 bytes  received 114 bytes  35,822.00 bytes/sec
+total size is 99,260,458  speedup is 1,847.29
+ 
+### Backup script backup...   Sun  6 Jan 17:40:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 17:40:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 17:40:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 17:50:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 17:50:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,605 bytes  received 114 bytes  107,438.00 bytes/sec
+total size is 99,260,436  speedup is 1,847.77
+ 
+### Backup script backup...   Sun  6 Jan 17:50:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 17:50:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 17:50:01 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 18:00:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 18:00:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,600 bytes  received 114 bytes  35,809.33 bytes/sec
+total size is 99,260,450  speedup is 1,847.94
+ 
+### Backup script backup...   Sun  6 Jan 18:00:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 18:00:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 18:00:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 18:10:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 18:10:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,607 bytes  received 114 bytes  35,814.00 bytes/sec
+total size is 99,260,476  speedup is 1,847.70
+ 
+### Backup script backup...   Sun  6 Jan 18:10:02 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 18:10:02 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 18:10:02 GMT 2019
+##################################################
+ 
+##################################################
+Backup initiated at Sun  6 Jan 18:20:01 GMT 2019
+##################################################
+ 
+ 
+### /home/* backup...   Sun  6 Jan 18:20:01 GMT 2019
+sending incremental file list
+john/scripts/backup.log
+
+sent 53,609 bytes  received 114 bytes  107,446.00 bytes/sec
+total size is 99,260,477  speedup is 1,847.63
+ 
+### Backup script backup...   Sun  6 Jan 18:20:01 GMT 2019
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 1,932  speedup is 33.89
+ 
+### fstab backup...   Sun  6 Jan 18:20:01 GMT 2019
+sending incremental file list
+
+sent 42 bytes  received 12 bytes  108.00 bytes/sec
+total size is 1,654  speedup is 30.63
+ 
+##################################################
+Backup completed at Sun  6 Jan 18:20:01 GMT 2019
+##################################################

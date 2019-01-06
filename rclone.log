@@ -1,0 +1,5844 @@
+Checks:              1635
+Transferred:            0
+Elapsed time:      3m0.4s
+
+2019/01/04 16:25:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1877
+Transferred:            0
+Elapsed time:      4m0.4s
+
+2019/01/04 16:26:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1996
+Transferred:            0
+Elapsed time:      5m0.4s
+
+2019/01/04 16:27:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2375
+Transferred:            0
+Elapsed time:      6m0.4s
+
+2019/01/04 16:28:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3002
+Transferred:            0
+Elapsed time:      7m0.4s
+
+2019/01/04 16:29:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3009
+Transferred:            0
+Elapsed time:      8m0.4s
+
+2019/01/04 16:30:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3503
+Transferred:            0
+Elapsed time:      9m0.4s
+
+2019/01/04 16:31:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3792
+Transferred:            0
+Elapsed time:     10m0.4s
+
+2019/01/04 16:32:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4019
+Transferred:            0
+Elapsed time:     11m0.4s
+
+2019/01/04 16:33:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4303
+Transferred:            0
+Elapsed time:     12m0.4s
+
+2019/01/04 16:34:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4573
+Transferred:            0
+Elapsed time:     13m0.4s
+
+2019/01/04 16:35:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4909
+Transferred:            0
+Elapsed time:     14m0.4s
+
+2019/01/04 16:36:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              5683
+Transferred:            0
+Elapsed time:     15m0.4s
+
+2019/01/04 16:37:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6090
+Transferred:            0
+Elapsed time:     16m0.4s
+
+2019/01/04 16:38:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6953
+Transferred:            0
+Elapsed time:     17m0.4s
+
+2019/01/04 16:39:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              7966
+Transferred:            0
+Elapsed time:     18m0.4s
+
+2019/01/04 16:40:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8345
+Transferred:            0
+Elapsed time:     19m0.4s
+
+2019/01/04 16:41:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8708
+Transferred:            0
+Elapsed time:     20m0.4s
+
+2019/01/04 16:42:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9271
+Transferred:            0
+Elapsed time:     21m0.4s
+
+2019/01/04 16:43:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9917
+Transferred:            0
+Elapsed time:     22m0.4s
+
+2019/01/04 16:44:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10438
+Transferred:            0
+Elapsed time:     23m0.4s
+
+2019/01/04 16:45:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10638
+Transferred:            0
+Elapsed time:     24m0.4s
+
+2019/01/04 16:46:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10807
+Transferred:            0
+Elapsed time:     25m0.4s
+
+2019/01/04 16:47:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11094
+Transferred:            0
+Elapsed time:     26m0.4s
+
+2019/01/04 16:48:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11106
+Transferred:            0
+Elapsed time:     27m0.4s
+
+2019/01/04 16:49:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11571
+Transferred:            0
+Elapsed time:     28m0.4s
+
+2019/01/04 16:50:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11591
+Transferred:            0
+Elapsed time:     29m0.4s
+
+2019/01/04 16:50:47 INFO  : Google drive root 'My Games': Waiting for checks to finish
+2019/01/04 16:50:47 INFO  : Google drive root 'My Games': Waiting for transfers to finish
+2019/01/04 16:50:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11680
+Transferred:            0
+Elapsed time:    29m10.5s
+
+################# rclone Games GoogleDrive copy Running...   Fri  4 Jan 16:50:47 GMT 2019
+2019/01/04 16:51:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               357
+Transferred:            0
+Elapsed time:      1m0.5s
+
+2019/01/04 16:52:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               691
+Transferred:            0
+Elapsed time:      2m0.5s
+
+2019/01/04 16:53:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               878
+Transferred:            0
+Elapsed time:      3m0.5s
+
+2019/01/04 16:54:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1221
+Transferred:            0
+Elapsed time:      4m0.5s
+
+2019/01/04 16:55:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1697
+Transferred:            0
+Elapsed time:      5m0.5s
+
+2019/01/04 16:56:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1799
+Transferred:            0
+Elapsed time:      6m0.5s
+
+2019/01/04 16:57:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2066
+Transferred:            0
+Elapsed time:      7m0.5s
+
+2019/01/04 16:58:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2313
+Transferred:            0
+Elapsed time:      8m0.5s
+
+2019/01/04 16:59:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2789
+Transferred:            0
+Elapsed time:      9m0.5s
+
+2019/01/04 17:00:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2795
+Transferred:            0
+Elapsed time:     10m0.5s
+
+2019/01/04 17:01:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3076
+Transferred:            0
+Elapsed time:     11m0.5s
+
+2019/01/04 17:02:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3365
+Transferred:            0
+Elapsed time:     12m0.5s
+
+2019/01/04 17:03:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3522
+Transferred:            0
+Elapsed time:     13m0.5s
+
+2019/01/04 17:04:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3907
+Transferred:            0
+Elapsed time:     14m0.5s
+
+2019/01/04 17:05:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4215
+Transferred:            0
+Elapsed time:     15m0.5s
+
+2019/01/04 17:06:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4728
+Transferred:            0
+Elapsed time:     16m0.5s
+
+2019/01/04 17:07:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4730
+Transferred:            0
+Elapsed time:     17m0.5s
+
+2019/01/04 17:08:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              5770
+Transferred:            0
+Elapsed time:     18m0.5s
+
+2019/01/04 17:09:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6131
+Transferred:            0
+Elapsed time:     19m0.5s
+
+2019/01/04 17:10:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6470
+Transferred:            0
+Elapsed time:     20m0.5s
+
+2019/01/04 17:11:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              7253
+Transferred:            0
+Elapsed time:     21m0.5s
+
+2019/01/04 17:12:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8306
+Transferred:            0
+Elapsed time:     22m0.5s
+
+2019/01/04 17:13:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9674
+Transferred:            0
+Elapsed time:     23m0.5s
+
+2019/01/04 17:14:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10163
+Transferred:            0
+Elapsed time:     24m0.5s
+
+2019/01/04 17:15:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10607
+Transferred:            0
+Elapsed time:     25m0.5s
+
+2019/01/04 17:16:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10992
+Transferred:            0
+Elapsed time:     26m0.5s
+
+2019/01/04 17:17:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11148
+Transferred:            0
+Elapsed time:     27m0.5s
+
+2019/01/04 17:18:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11367
+Transferred:            0
+Elapsed time:     28m0.5s
+
+2019/01/04 17:19:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11448
+Transferred:            0
+Elapsed time:     29m0.5s
+
+2019/01/04 17:20:28 INFO  : Local file system at /mnt/freenas/Backups/My Games: Waiting for checks to finish
+2019/01/04 17:20:28 INFO  : Local file system at /mnt/freenas/Backups/My Games: Waiting for transfers to finish
+2019/01/04 17:20:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11680
+Transferred:            0
+Elapsed time:    29m41.6s
+
+################# rclone Personal local copy Running...   Fri  4 Jan 17:20:28 GMT 2019
+2019/01/04 17:20:41 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/04 17:20:41 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/04 17:20:41 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: can't update a google document
+2019/01/04 17:21:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              1153
+Transferred:            0
+Elapsed time:      1m0.4s
+
+2019/01/04 17:22:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              1868
+Transferred:            0
+Elapsed time:      2m0.4s
+
+2019/01/04 17:23:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              2552
+Transferred:            0
+Elapsed time:      3m0.4s
+
+2019/01/04 17:24:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              3904
+Transferred:            0
+Elapsed time:      4m0.4s
+
+2019/01/04 17:25:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              4141
+Transferred:            0
+Elapsed time:      5m0.4s
+
+2019/01/04 17:26:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              5500
+Transferred:            0
+Elapsed time:      6m0.4s
+
+2019/01/04 17:26:38 INFO  : Google drive root 'Personal': Waiting for checks to finish
+2019/01/04 17:26:38 INFO  : Google drive root 'Personal': Waiting for transfers to finish
+2019/01/04 17:26:38 ERROR : Attempt 1/3 failed with 1 errors and: can't update a google document
+2019/01/04 17:26:47 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/04 17:26:47 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/04 17:26:47 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: can't update a google document
+2019/01/04 17:27:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              6929
+Transferred:            0
+Elapsed time:      7m0.4s
+
+2019/01/04 17:28:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              7647
+Transferred:            0
+Elapsed time:      8m0.4s
+
+2019/01/04 17:29:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              8311
+Transferred:            0
+Elapsed time:      9m0.4s
+
+2019/01/04 17:30:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              9814
+Transferred:            0
+Elapsed time:     10m0.4s
+
+2019/01/04 17:31:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             10248
+Transferred:            0
+Elapsed time:     11m0.4s
+
+2019/01/04 17:32:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             10914
+Transferred:            0
+Elapsed time:     12m0.4s
+
+2019/01/04 17:33:28 INFO  : Google drive root 'Personal': Waiting for checks to finish
+2019/01/04 17:33:28 INFO  : Google drive root 'Personal': Waiting for transfers to finish
+2019/01/04 17:33:28 ERROR : Attempt 2/3 failed with 1 errors and: can't update a google document
+2019/01/04 17:33:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11499
+Transferred:            0
+Elapsed time:     13m0.4s
+
+2019/01/04 17:33:29 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/04 17:33:29 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/04 17:33:29 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: can't update a google document
+2019/01/04 17:34:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             13015
+Transferred:            0
+Elapsed time:     14m0.4s
+
+2019/01/04 17:35:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             13547
+Transferred:            0
+Elapsed time:     15m0.4s
+
+2019/01/04 17:36:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             14082
+Transferred:            0
+Elapsed time:     16m0.4s
+
+2019/01/04 17:37:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             16540
+Transferred:            0
+Elapsed time:     17m0.4s
+
+2019/01/04 17:38:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             16780
+Transferred:            0
+Elapsed time:     18m0.4s
+
+2019/01/04 17:39:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             17245
+Transferred:            0
+Elapsed time:     19m0.4s
+
+2019/01/04 17:39:36 INFO  : Google drive root 'Personal': Waiting for checks to finish
+2019/01/04 17:39:36 INFO  : Google drive root 'Personal': Waiting for transfers to finish
+2019/01/04 17:39:36 ERROR : Attempt 3/3 failed with 1 errors and: can't update a google document
+2019/01/04 17:39:36 Failed to copy: can't update a google document
+################# rclone Personal GoogleDrive copy Running...   Fri  4 Jan 17:39:36 GMT 2019
+2019/01/04 17:39:39 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/04 17:39:39 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/04 17:39:40 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/04 17:40:37 INFO  : 
+Transferred:   84.415 kBytes (1.395 kBytes/s)
+Errors:                 1
+Checks:              1589
+Transferred:            0
+Elapsed time:      1m0.5s
+
+2019/01/04 17:41:37 INFO  : 
+Transferred:   84.415 kBytes (717 Bytes/s)
+Errors:                 1
+Checks:              2302
+Transferred:            0
+Elapsed time:      2m0.5s
+
+2019/01/04 17:42:37 INFO  : 
+Transferred:   84.415 kBytes (478 Bytes/s)
+Errors:                 1
+Checks:              2853
+Transferred:            0
+Elapsed time:      3m0.5s
+
+2019/01/04 17:43:37 INFO  : 
+Transferred:   84.415 kBytes (359 Bytes/s)
+Errors:                 1
+Checks:              4823
+Transferred:            0
+Elapsed time:      4m0.5s
+
+2019/01/04 17:44:37 INFO  : 
+Transferred:   84.415 kBytes (287 Bytes/s)
+Errors:                 1
+Checks:              5454
+Transferred:            0
+Elapsed time:      5m0.5s
+
+2019/01/04 17:45:37 INFO  : 
+Transferred:   84.415 kBytes (239 Bytes/s)
+Errors:                 1
+Checks:              5470
+Transferred:            0
+Elapsed time:      6m0.5s
+
+2019/01/04 17:45:47 INFO  : Local file system at /home/john/Documents/Personal: Waiting for checks to finish
+2019/01/04 17:45:47 INFO  : Local file system at /home/john/Documents/Personal: Waiting for transfers to finish
+2019/01/04 17:45:47 ERROR : Attempt 1/3 failed with 1 errors and: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/04 17:45:48 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/04 17:45:48 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/04 17:45:49 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/04 17:46:37 INFO  : 
+Transferred:   168.843 kBytes (411 Bytes/s)
+Errors:                 1
+Checks:              5990
+Transferred:            0
+Elapsed time:      7m0.5s
+
+2019/01/04 17:47:37 INFO  : 
+Transferred:   168.843 kBytes (359 Bytes/s)
+Errors:                 1
+Checks:              6901
+Transferred:            0
+Elapsed time:      8m0.5s
+
+ 
+##################################################
+rclone initialised at Fri  4 Jan 20:00:01 GMT 2019
+##################################################
+ 
+################# rclone Apps local copy Running...   Fri  4 Jan 20:00:01 GMT 2019
+2019/01/04 20:01:02 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                 9
+Transferred:            0
+Elapsed time:      1m0.8s
+
+2019/01/04 20:02:02 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                 9
+Transferred:            0
+Elapsed time:      2m0.8s
+
+2019/01/04 20:03:02 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                 9
+Transferred:            0
+Elapsed time:      3m0.8s
+
+2019/01/04 20:03:44 INFO  : Google drive root 'Apps': Waiting for checks to finish
+2019/01/04 20:03:44 INFO  : Google drive root 'Apps': Waiting for transfers to finish
+2019/01/04 20:03:44 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                11
+Transferred:            0
+Elapsed time:     3m43.1s
+
+################# rclone Apps GoogleDrive copy Running...   Fri  4 Jan 20:03:44 GMT 2019
+2019/01/04 20:03:56 INFO  : Local file system at /home/john/Documents/Apps: Waiting for checks to finish
+2019/01/04 20:03:56 INFO  : Local file system at /home/john/Documents/Apps: Waiting for transfers to finish
+2019/01/04 20:03:56 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                11
+Transferred:            0
+Elapsed time:       11.8s
+
+################# rclone Books local copy Running...   Fri  4 Jan 20:03:56 GMT 2019
+2019/01/04 20:04:57 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               209
+Transferred:            0
+Elapsed time:      1m0.5s
+
+2019/01/04 20:05:57 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               270
+Transferred:            0
+Elapsed time:      2m0.5s
+
+2019/01/04 20:06:57 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               440
+Transferred:            0
+Elapsed time:      3m0.5s
+
+2019/01/04 20:07:57 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               561
+Transferred:            0
+Elapsed time:      4m0.5s
+
+2019/01/04 20:08:57 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               738
+Transferred:            0
+Elapsed time:      5m0.5s
+
+2019/01/04 20:09:57 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               741
+Transferred:            0
+Elapsed time:      6m0.5s
+
+2019/01/04 20:10:57 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               894
+Transferred:            0
+Elapsed time:      7m0.5s
+
+2019/01/04 20:11:48 INFO  : Google drive root 'Books': Waiting for checks to finish
+2019/01/04 20:11:48 INFO  : Google drive root 'Books': Waiting for transfers to finish
+2019/01/04 20:11:48 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1159
+Transferred:            0
+Elapsed time:     7m51.4s
+
+################# rclone Books GoogleDrive copy Running...   Fri  4 Jan 20:11:48 GMT 2019
+2019/01/04 20:12:48 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                53
+Transferred:            0
+Elapsed time:      1m0.4s
+
+2019/01/04 20:13:48 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               285
+Transferred:            0
+Elapsed time:      2m0.4s
+
+2019/01/04 20:14:48 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               434
+Transferred:            0
+Elapsed time:      3m0.4s
+
+2019/01/04 20:15:48 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               552
+Transferred:            0
+Elapsed time:      4m0.4s
+
+2019/01/04 20:16:48 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               720
+Transferred:            0
+Elapsed time:      5m0.4s
+
+2019/01/04 20:17:48 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               987
+Transferred:            0
+Elapsed time:      6m0.4s
+
+2019/01/04 20:18:39 INFO  : Local file system at /home/john/Documents/Books: Waiting for checks to finish
+2019/01/04 20:18:39 INFO  : Local file system at /home/john/Documents/Books: Waiting for transfers to finish
+2019/01/04 20:18:39 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1159
+Transferred:            0
+Elapsed time:     6m51.1s
+
+################# rclone Comics local copy Running...   Fri  4 Jan 20:18:39 GMT 2019
+2019/01/04 20:18:48 INFO  : Google drive root 'Comics': Waiting for checks to finish
+2019/01/04 20:18:48 INFO  : Google drive root 'Comics': Waiting for transfers to finish
+2019/01/04 20:18:48 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               812
+Transferred:            0
+Elapsed time:        8.8s
+
+################# rclone Comics GoogleDrive copy Running...   Fri  4 Jan 20:18:48 GMT 2019
+2019/01/04 20:19:29 INFO  : Local file system at /home/john/Documents/Comics: Waiting for checks to finish
+2019/01/04 20:19:29 INFO  : Local file system at /home/john/Documents/Comics: Waiting for transfers to finish
+2019/01/04 20:19:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               812
+Transferred:            0
+Elapsed time:         41s
+
+################# rclone House local copy Running...   Fri  4 Jan 20:19:29 GMT 2019
+2019/01/04 20:19:30 NOTICE: 49 Winchester Close/Paving Plan.xlsx: Duplicate object found in destination - ignoring
+2019/01/04 20:19:30 INFO  : Google drive root 'House': Waiting for checks to finish
+2019/01/04 20:19:30 INFO  : Google drive root 'House': Waiting for transfers to finish
+2019/01/04 20:19:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                14
+Transferred:            0
+Elapsed time:        1.3s
+
+################# rclone House GoogleDrive copy Running...   Fri  4 Jan 20:19:30 GMT 2019
+2019/01/04 20:19:48 NOTICE: 49 Winchester Close/Paving Plan.xlsx: Duplicate object found in source - ignoring
+2019/01/04 20:19:48 INFO  : Local file system at /home/john/Documents/House: Waiting for checks to finish
+2019/01/04 20:19:48 INFO  : Local file system at /home/john/Documents/House: Waiting for transfers to finish
+2019/01/04 20:19:48 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                14
+Transferred:            0
+Elapsed time:       17.9s
+
+################# rclone Games local copy Running...   Fri  4 Jan 20:19:48 GMT 2019
+2019/01/04 20:20:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                64
+Transferred:            0
+Elapsed time:      1m0.5s
+
+2019/01/04 20:21:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               604
+Transferred:            0
+Elapsed time:      2m0.5s
+
+2019/01/04 20:22:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               897
+Transferred:            0
+Elapsed time:      3m0.5s
+
+2019/01/04 20:23:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1170
+Transferred:            0
+Elapsed time:      4m0.5s
+
+2019/01/04 20:24:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1653
+Transferred:            0
+Elapsed time:      5m0.5s
+
+2019/01/04 20:25:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1874
+Transferred:            0
+Elapsed time:      6m0.5s
+
+2019/01/04 20:26:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2002
+Transferred:            0
+Elapsed time:      7m0.5s
+
+2019/01/04 20:27:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2299
+Transferred:            0
+Elapsed time:      8m0.5s
+
+2019/01/04 20:28:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2851
+Transferred:            0
+Elapsed time:      9m0.5s
+
+2019/01/04 20:29:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3245
+Transferred:            0
+Elapsed time:     10m0.5s
+
+2019/01/04 20:30:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3418
+Transferred:            0
+Elapsed time:     11m0.5s
+
+2019/01/04 20:31:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3779
+Transferred:            0
+Elapsed time:     12m0.5s
+
+2019/01/04 20:32:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4219
+Transferred:            0
+Elapsed time:     13m0.5s
+
+2019/01/04 20:33:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4578
+Transferred:            0
+Elapsed time:     14m0.5s
+
+2019/01/04 20:34:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4916
+Transferred:            0
+Elapsed time:     15m0.5s
+
+2019/01/04 20:35:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              5877
+Transferred:            0
+Elapsed time:     16m0.5s
+
+2019/01/04 20:36:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6499
+Transferred:            0
+Elapsed time:     17m0.5s
+
+2019/01/04 20:37:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              7157
+Transferred:            0
+Elapsed time:     18m0.5s
+
+2019/01/04 20:38:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8189
+Transferred:            0
+Elapsed time:     19m0.5s
+
+2019/01/04 20:39:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8662
+Transferred:            0
+Elapsed time:     20m0.5s
+
+2019/01/04 20:40:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9119
+Transferred:            0
+Elapsed time:     21m0.5s
+
+2019/01/04 20:41:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9515
+Transferred:            0
+Elapsed time:     22m0.5s
+
+2019/01/04 20:42:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9893
+Transferred:            0
+Elapsed time:     23m0.5s
+
+2019/01/04 20:43:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10360
+Transferred:            0
+Elapsed time:     24m0.5s
+
+2019/01/04 20:44:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10699
+Transferred:            0
+Elapsed time:     25m0.5s
+
+2019/01/04 20:45:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10976
+Transferred:            0
+Elapsed time:     26m0.5s
+
+2019/01/04 20:46:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11314
+Transferred:            0
+Elapsed time:     27m0.5s
+
+2019/01/04 20:47:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11595
+Transferred:            0
+Elapsed time:     28m0.5s
+
+2019/01/04 20:48:27 INFO  : Google drive root 'My Games': Waiting for checks to finish
+2019/01/04 20:48:27 INFO  : Google drive root 'My Games': Waiting for transfers to finish
+2019/01/04 20:48:27 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11680
+Transferred:            0
+Elapsed time:    28m39.3s
+
+################# rclone Games GoogleDrive copy Running...   Fri  4 Jan 20:48:27 GMT 2019
+2019/01/04 20:49:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               295
+Transferred:            0
+Elapsed time:      1m0.4s
+
+2019/01/04 20:50:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               485
+Transferred:            0
+Elapsed time:      2m0.4s
+
+2019/01/04 20:51:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1019
+Transferred:            0
+Elapsed time:      3m0.4s
+
+2019/01/04 20:52:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1654
+Transferred:            0
+Elapsed time:      4m0.4s
+
+2019/01/04 20:53:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1838
+Transferred:            0
+Elapsed time:      5m0.4s
+
+2019/01/04 20:54:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2016
+Transferred:            0
+Elapsed time:      6m0.4s
+
+2019/01/04 20:55:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2646
+Transferred:            0
+Elapsed time:      7m0.4s
+
+2019/01/04 20:56:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3205
+Transferred:            0
+Elapsed time:      8m0.4s
+
+2019/01/04 20:57:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3380
+Transferred:            0
+Elapsed time:      9m0.4s
+
+2019/01/04 20:58:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3825
+Transferred:            0
+Elapsed time:     10m0.4s
+
+2019/01/04 20:59:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4068
+Transferred:            0
+Elapsed time:     11m0.4s
+
+2019/01/04 21:00:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4465
+Transferred:            0
+Elapsed time:     12m0.4s
+
+2019/01/04 21:01:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4706
+Transferred:            0
+Elapsed time:     13m0.4s
+
+2019/01/04 21:02:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4910
+Transferred:            0
+Elapsed time:     14m0.4s
+
+2019/01/04 21:03:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6079
+Transferred:            0
+Elapsed time:     15m0.4s
+
+2019/01/04 21:04:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6144
+Transferred:            0
+Elapsed time:     16m0.4s
+
+2019/01/04 21:05:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6646
+Transferred:            0
+Elapsed time:     17m0.4s
+
+2019/01/04 21:06:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              7500
+Transferred:            0
+Elapsed time:     18m0.4s
+
+2019/01/04 21:07:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8141
+Transferred:            0
+Elapsed time:     19m0.4s
+
+2019/01/04 21:08:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8719
+Transferred:            0
+Elapsed time:     20m0.4s
+
+2019/01/04 21:09:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9383
+Transferred:            0
+Elapsed time:     21m0.4s
+
+2019/01/04 21:10:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9757
+Transferred:            0
+Elapsed time:     22m0.4s
+
+2019/01/04 21:11:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10041
+Transferred:            0
+Elapsed time:     23m0.4s
+
+2019/01/04 21:12:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10352
+Transferred:            0
+Elapsed time:     24m0.4s
+
+2019/01/04 21:13:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10651
+Transferred:            0
+Elapsed time:     25m0.4s
+
+2019/01/04 21:14:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10937
+Transferred:            0
+Elapsed time:     26m0.4s
+
+2019/01/04 21:15:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11174
+Transferred:            0
+Elapsed time:     27m0.4s
+
+2019/01/04 21:16:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11541
+Transferred:            0
+Elapsed time:     28m0.4s
+
+2019/01/04 21:16:30 INFO  : Local file system at /mnt/freenas/Backups/My Games: Waiting for checks to finish
+2019/01/04 21:16:30 INFO  : Local file system at /mnt/freenas/Backups/My Games: Waiting for transfers to finish
+2019/01/04 21:16:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11680
+Transferred:            0
+Elapsed time:     28m2.9s
+
+################# rclone Personal local copy Running...   Fri  4 Jan 21:16:30 GMT 2019
+2019/01/04 21:16:50 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/04 21:16:50 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/04 21:16:50 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: can't update a google document
+2019/01/04 21:17:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:               538
+Transferred:            0
+Elapsed time:      1m9.1s
+
+2019/01/04 21:18:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              1151
+Transferred:            0
+Elapsed time:      2m9.1s
+
+2019/01/04 21:19:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              1521
+Transferred:            0
+Elapsed time:      3m9.1s
+
+2019/01/04 21:20:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              1826
+Transferred:            0
+Elapsed time:      4m9.1s
+
+2019/01/04 21:21:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              2180
+Transferred:            0
+Elapsed time:      5m9.1s
+
+2019/01/04 21:22:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              2612
+Transferred:            0
+Elapsed time:      6m9.1s
+
+2019/01/04 21:23:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              3433
+Transferred:            0
+Elapsed time:      7m9.1s
+
+2019/01/04 21:24:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              4051
+Transferred:            0
+Elapsed time:      8m9.1s
+
+2019/01/04 21:25:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              4433
+Transferred:            0
+Elapsed time:      9m9.1s
+
+2019/01/04 21:26:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              4953
+Transferred:            0
+Elapsed time:     10m9.1s
+
+2019/01/04 21:27:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              5351
+Transferred:            0
+Elapsed time:     11m9.1s
+
+2019/01/04 21:27:51 INFO  : Google drive root 'Personal': Waiting for checks to finish
+2019/01/04 21:27:51 INFO  : Google drive root 'Personal': Waiting for transfers to finish
+2019/01/04 21:27:51 ERROR : Attempt 1/3 failed with 1 errors and: can't update a google document
+2019/01/04 21:28:00 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/04 21:28:00 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/04 21:28:00 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: can't update a google document
+2019/01/04 21:28:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              7015
+Transferred:            0
+Elapsed time:     12m9.1s
+
+2019/01/04 21:29:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              7527
+Transferred:            0
+Elapsed time:     13m9.1s
+
+2019/01/04 21:30:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              9597
+Transferred:            0
+Elapsed time:     14m9.1s
+
+2019/01/04 21:31:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              9771
+Transferred:            0
+Elapsed time:     15m9.1s
+
+2019/01/04 21:32:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             10441
+Transferred:            0
+Elapsed time:     16m9.1s
+
+2019/01/04 21:33:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             10795
+Transferred:            0
+Elapsed time:     17m9.1s
+
+2019/01/04 21:34:39 INFO  : Google drive root 'Personal': Waiting for checks to finish
+2019/01/04 21:34:39 INFO  : Google drive root 'Personal': Waiting for transfers to finish
+2019/01/04 21:34:39 ERROR : Attempt 2/3 failed with 1 errors and: can't update a google document
+2019/01/04 21:34:39 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/04 21:34:39 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/04 21:34:39 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: can't update a google document
+2019/01/04 21:34:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             11529
+Transferred:            0
+Elapsed time:     18m9.1s
+
+2019/01/04 21:35:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             12523
+Transferred:            0
+Elapsed time:     19m9.1s
+
+2019/01/04 21:36:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             13021
+Transferred:            0
+Elapsed time:     20m9.1s
+
+2019/01/04 21:37:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             13535
+Transferred:            0
+Elapsed time:     21m9.1s
+
+2019/01/04 21:38:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             15549
+Transferred:            0
+Elapsed time:     22m9.1s
+
+2019/01/04 21:39:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             16353
+Transferred:            0
+Elapsed time:     23m9.1s
+
+2019/01/04 21:40:40 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             16873
+Transferred:            0
+Elapsed time:     24m9.1s
+
+2019/01/04 21:41:21 INFO  : Google drive root 'Personal': Waiting for checks to finish
+2019/01/04 21:41:21 INFO  : Google drive root 'Personal': Waiting for transfers to finish
+2019/01/04 21:41:21 ERROR : Attempt 3/3 failed with 1 errors and: can't update a google document
+2019/01/04 21:41:21 Failed to copy: can't update a google document
+################# rclone Personal GoogleDrive copy Running...   Fri  4 Jan 21:41:21 GMT 2019
+2019/01/04 21:41:24 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/04 21:41:24 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/04 21:41:25 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/04 21:42:21 INFO  : 
+Transferred:   84.391 kBytes (1.393 kBytes/s)
+Errors:                 1
+Checks:              1255
+Transferred:            0
+Elapsed time:      1m0.5s
+
+2019/01/04 21:43:21 INFO  : 
+Transferred:   84.391 kBytes (716 Bytes/s)
+Errors:                 1
+Checks:              2144
+Transferred:            0
+Elapsed time:      2m0.5s
+
+2019/01/04 21:44:21 INFO  : 
+Transferred:   84.391 kBytes (478 Bytes/s)
+Errors:                 1
+Checks:              2629
+Transferred:            0
+Elapsed time:      3m0.5s
+
+2019/01/04 21:45:21 INFO  : 
+Transferred:   84.391 kBytes (359 Bytes/s)
+Errors:                 1
+Checks:              4061
+Transferred:            0
+Elapsed time:      4m0.5s
+
+2019/01/04 21:46:21 INFO  : 
+Transferred:   84.391 kBytes (287 Bytes/s)
+Errors:                 1
+Checks:              4329
+Transferred:            0
+Elapsed time:      5m0.5s
+
+2019/01/04 21:47:21 INFO  : 
+Transferred:   84.391 kBytes (239 Bytes/s)
+Errors:                 1
+Checks:              5175
+Transferred:            0
+Elapsed time:      6m0.5s
+
+2019/01/04 21:48:21 INFO  : 
+Transferred:   84.391 kBytes (205 Bytes/s)
+Errors:                 1
+Checks:              5704
+Transferred:            0
+Elapsed time:      7m0.5s
+
+2019/01/04 21:48:32 INFO  : Local file system at /home/john/Documents/Personal: Waiting for checks to finish
+2019/01/04 21:48:32 INFO  : Local file system at /home/john/Documents/Personal: Waiting for transfers to finish
+2019/01/04 21:48:32 ERROR : Attempt 1/3 failed with 1 errors and: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/04 21:48:39 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/04 21:48:39 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/04 21:48:42 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/04 21:49:21 INFO  : 
+Transferred:   168.800 kBytes (359 Bytes/s)
+Errors:                 1
+Checks:              7391
+Transferred:            0
+Elapsed time:      8m0.5s
+
+2019/01/04 21:50:21 INFO  : 
+Transferred:   168.800 kBytes (319 Bytes/s)
+Errors:                 1
+Checks:              8377
+Transferred:            0
+Elapsed time:      9m0.5s
+
+2019/01/05 11:05:07 INFO  : 
+Transferred:   168.800 kBytes (287 Bytes/s)
+Errors:                 1
+Checks:              9105
+Transferred:            0
+Elapsed time:     10m0.5s
+
+2019/01/05 11:06:08 INFO  : 
+Transferred:   168.800 kBytes (261 Bytes/s)
+Errors:                 1
+Checks:              9105
+Transferred:            0
+Elapsed time:     11m0.5s
+
+2019/01/05 11:07:08 INFO  : 
+Transferred:   168.800 kBytes (239 Bytes/s)
+Errors:                 1
+Checks:              9105
+Transferred:            0
+Elapsed time:     12m0.5s
+
+2019/01/05 11:08:08 INFO  : 
+Transferred:   168.800 kBytes (221 Bytes/s)
+Errors:                 1
+Checks:              9105
+Transferred:            0
+Elapsed time:     13m0.5s
+
+2019/01/05 11:09:08 INFO  : 
+Transferred:   168.800 kBytes (205 Bytes/s)
+Errors:                 1
+Checks:              9105
+Transferred:            0
+Elapsed time:     14m0.5s
+
+2019/01/05 11:10:08 INFO  : 
+Transferred:   168.800 kBytes (191 Bytes/s)
+Errors:                 1
+Checks:              9105
+Transferred:            0
+Elapsed time:     15m0.5s
+
+2019/01/05 11:11:08 INFO  : 
+Transferred:   168.800 kBytes (179 Bytes/s)
+Errors:                 1
+Checks:              9111
+Transferred:            0
+Elapsed time:     16m0.5s
+
+2019/01/05 11:12:07 INFO  : Local file system at /home/john/Documents/Personal: Waiting for checks to finish
+2019/01/05 11:12:07 INFO  : Local file system at /home/john/Documents/Personal: Waiting for transfers to finish
+2019/01/05 11:12:07 ERROR : Attempt 2/3 failed with 1 errors and: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/05 11:12:08 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 11:12:08 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 11:12:08 INFO  : 
+Transferred:   168.800 kBytes (169 Bytes/s)
+Errors:                 0
+Checks:             11608
+Transferred:            0
+Elapsed time:     17m0.5s
+Transferring:
+ * Finances/Finances_calc_2018.xlsx
+
+2019/01/05 11:12:09 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/05 11:13:08 INFO  : 
+Transferred:   253.412 kBytes (240 Bytes/s)
+Errors:                 1
+Checks:             13000
+Transferred:            0
+Elapsed time:     18m0.5s
+
+2019/01/05 11:14:08 INFO  : 
+Transferred:   253.412 kBytes (227 Bytes/s)
+Errors:                 1
+Checks:             13497
+Transferred:            0
+Elapsed time:     19m0.5s
+
+2019/01/05 11:15:08 INFO  : 
+Transferred:   253.412 kBytes (216 Bytes/s)
+Errors:                 1
+Checks:             13732
+Transferred:            0
+Elapsed time:     20m0.5s
+
+2019/01/05 11:16:08 INFO  : 
+Transferred:   253.412 kBytes (205 Bytes/s)
+Errors:                 1
+Checks:             14200
+Transferred:            0
+Elapsed time:     21m0.5s
+
+2019/01/05 11:17:08 INFO  : 
+Transferred:   253.412 kBytes (196 Bytes/s)
+Errors:                 1
+Checks:             15829
+Transferred:            0
+Elapsed time:     22m0.5s
+
+2019/01/05 11:18:08 INFO  : 
+Transferred:   253.412 kBytes (187 Bytes/s)
+Errors:                 1
+Checks:             16707
+Transferred:            0
+Elapsed time:     23m0.5s
+
+2019/01/05 11:18:48 INFO  : Local file system at /home/john/Documents/Personal: Waiting for checks to finish
+2019/01/05 11:18:48 INFO  : Local file system at /home/john/Documents/Personal: Waiting for transfers to finish
+2019/01/05 11:18:48 ERROR : Attempt 3/3 failed with 1 errors and: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/05 11:18:48 Failed to copy: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+################# rclone Work local copy Running...   Sat  5 Jan 11:18:48 GMT 2019
+2019/01/05 11:19:48 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               205
+Transferred:            0
+Elapsed time:      1m0.5s
+
+2019/01/05 11:20:48 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               344
+Transferred:            0
+Elapsed time:      2m0.5s
+
+2019/01/05 11:20:57 INFO  : Google drive root 'Work Personal': Waiting for checks to finish
+2019/01/05 11:20:57 INFO  : Google drive root 'Work Personal': Waiting for transfers to finish
+2019/01/05 11:20:57 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               367
+Transferred:            0
+Elapsed time:      2m8.9s
+
+################# rclone Work GoogleDrive copy Running...   Sat  5 Jan 11:20:57 GMT 2019
+2019/01/05 11:21:57 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               290
+Transferred:            0
+Elapsed time:      1m0.5s
+
+2019/01/05 11:22:03 INFO  : Local file system at /home/john/Work/Work Personal: Waiting for checks to finish
+2019/01/05 11:22:03 INFO  : Local file system at /home/john/Work/Work Personal: Waiting for transfers to finish
+2019/01/05 11:22:03 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               367
+Transferred:            0
+Elapsed time:      1m6.1s
+
+################# rclone Pictures local copy Running...   Sat  5 Jan 11:22:03 GMT 2019
+2019/01/05 11:22:26 INFO  : Google drive root 'Google Photos': Waiting for checks to finish
+2019/01/05 11:22:26 INFO  : Google drive root 'Google Photos': Waiting for transfers to finish
+2019/01/05 11:22:33 INFO  : 2018/IMG_20181231_015346.jpg: Copied (new)
+2019/01/05 11:22:33 INFO  : 
+Transferred:   4.806 MBytes (160.679 kBytes/s)
+Errors:                 0
+Checks:              6763
+Transferred:            1
+Elapsed time:       30.6s
+
+################# rclone Pictures GoogleDrive copy Running...   Sat  5 Jan 11:22:33 GMT 2019
+2019/01/05 11:22:59 INFO  : Local file system at /home/john/Pictures/Google Photos: Waiting for checks to finish
+2019/01/05 11:22:59 INFO  : Local file system at /home/john/Pictures/Google Photos: Waiting for transfers to finish
+2019/01/05 11:22:59 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6764
+Transferred:            0
+Elapsed time:       25.8s
+
+################# rclone images local copy Running...   Sat  5 Jan 11:22:59 GMT 2019
+2019/01/05 11:23:02 INFO  : Google drive root 'images': Waiting for checks to finish
+2019/01/05 11:23:02 INFO  : Google drive root 'images': Waiting for transfers to finish
+2019/01/05 11:23:02 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               281
+Transferred:            0
+Elapsed time:        2.4s
+
+################# rclone images GoogleDrive copy Running...   Sat  5 Jan 11:23:02 GMT 2019
+2019/01/05 11:23:04 INFO  : Local file system at /home/john/Pictures/images: Waiting for checks to finish
+2019/01/05 11:23:04 INFO  : Local file system at /home/john/Pictures/images: Waiting for transfers to finish
+2019/01/05 11:23:04 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               281
+Transferred:            0
+Elapsed time:        1.9s
+
+###########################################
+####### All rclone copies complete! #######   Sat  5 Jan 11:23:04 GMT 2019
+###########################################
+ 
+##################################################
+rclone initialised at Sat  5 Jan 16:00:01 GMT 2019
+##################################################
+ 
+################# rclone Apps local copy Running...   Sat  5 Jan 16:00:01 GMT 2019
+2019/01/05 16:00:03 INFO  : Google drive root 'Apps': Waiting for checks to finish
+2019/01/05 16:00:03 INFO  : Google drive root 'Apps': Waiting for transfers to finish
+2019/01/05 16:00:03 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                11
+Transferred:            0
+Elapsed time:          2s
+
+################# rclone Apps GoogleDrive copy Running...   Sat  5 Jan 16:00:03 GMT 2019
+2019/01/05 16:00:08 INFO  : Local file system at /home/john/Documents/Apps: Waiting for checks to finish
+2019/01/05 16:00:08 INFO  : Local file system at /home/john/Documents/Apps: Waiting for transfers to finish
+2019/01/05 16:00:08 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                11
+Transferred:            0
+Elapsed time:        5.5s
+
+################# rclone Books local copy Running...   Sat  5 Jan 16:00:08 GMT 2019
+2019/01/05 16:01:10 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                 2
+Transferred:            0
+Elapsed time:      1m0.5s
+
+2019/01/05 16:02:10 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                95
+Transferred:            0
+Elapsed time:      2m0.5s
+
+2019/01/05 16:03:10 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               288
+Transferred:            0
+Elapsed time:      3m0.5s
+
+2019/01/05 16:04:10 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               455
+Transferred:            0
+Elapsed time:      4m0.5s
+
+2019/01/05 16:05:10 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               546
+Transferred:            0
+Elapsed time:      5m0.5s
+
+2019/01/05 16:06:10 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               657
+Transferred:            0
+Elapsed time:      6m0.5s
+
+2019/01/05 16:07:10 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               666
+Transferred:            0
+Elapsed time:      7m0.5s
+
+2019/01/05 16:08:10 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               890
+Transferred:            0
+Elapsed time:      8m0.5s
+
+2019/01/05 16:09:10 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1017
+Transferred:            0
+Elapsed time:      9m0.5s
+
+2019/01/05 16:09:54 INFO  : Google drive root 'Books': Waiting for checks to finish
+2019/01/05 16:09:54 INFO  : Google drive root 'Books': Waiting for transfers to finish
+2019/01/05 16:09:54 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1159
+Transferred:            0
+Elapsed time:     9m45.3s
+
+################# rclone Books GoogleDrive copy Running...   Sat  5 Jan 16:09:54 GMT 2019
+2019/01/05 16:10:57 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               128
+Transferred:            0
+Elapsed time:      1m2.4s
+
+2019/01/05 16:11:57 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               158
+Transferred:            0
+Elapsed time:      2m2.4s
+
+2019/01/05 16:12:57 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               279
+Transferred:            0
+Elapsed time:      3m2.4s
+
+2019/01/05 16:13:57 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               294
+Transferred:            0
+Elapsed time:      4m2.4s
+
+2019/01/05 16:14:57 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               425
+Transferred:            0
+Elapsed time:      5m2.4s
+
+2019/01/05 16:15:57 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               564
+Transferred:            0
+Elapsed time:      6m2.4s
+
+2019/01/05 16:16:57 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               621
+Transferred:            0
+Elapsed time:      7m2.4s
+
+2019/01/05 16:17:57 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               675
+Transferred:            0
+Elapsed time:      8m2.4s
+
+2019/01/05 16:18:57 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1053
+Transferred:            0
+Elapsed time:      9m2.4s
+
+2019/01/05 16:19:29 INFO  : Local file system at /home/john/Documents/Books: Waiting for checks to finish
+2019/01/05 16:19:29 INFO  : Local file system at /home/john/Documents/Books: Waiting for transfers to finish
+2019/01/05 16:19:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1159
+Transferred:            0
+Elapsed time:     9m34.8s
+
+################# rclone Comics local copy Running...   Sat  5 Jan 16:19:29 GMT 2019
+2019/01/05 16:20:09 INFO  : Google drive root 'Comics': Waiting for checks to finish
+2019/01/05 16:20:09 INFO  : Google drive root 'Comics': Waiting for transfers to finish
+2019/01/05 16:20:09 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               812
+Transferred:            0
+Elapsed time:       39.7s
+
+################# rclone Comics GoogleDrive copy Running...   Sat  5 Jan 16:20:09 GMT 2019
+2019/01/05 16:21:10 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               645
+Transferred:            0
+Elapsed time:      1m0.5s
+
+2019/01/05 16:21:47 INFO  : Local file system at /home/john/Documents/Comics: Waiting for checks to finish
+2019/01/05 16:21:47 INFO  : Local file system at /home/john/Documents/Comics: Waiting for transfers to finish
+2019/01/05 16:21:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               812
+Transferred:            0
+Elapsed time:     1m38.1s
+
+################# rclone House local copy Running...   Sat  5 Jan 16:21:47 GMT 2019
+2019/01/05 16:21:49 NOTICE: 49 Winchester Close/Paving Plan.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 16:21:49 INFO  : Google drive root 'House': Waiting for checks to finish
+2019/01/05 16:21:49 INFO  : Google drive root 'House': Waiting for transfers to finish
+2019/01/05 16:21:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                14
+Transferred:            0
+Elapsed time:        1.6s
+
+################# rclone House GoogleDrive copy Running...   Sat  5 Jan 16:21:49 GMT 2019
+2019/01/05 16:21:50 NOTICE: 49 Winchester Close/Paving Plan.xlsx: Duplicate object found in source - ignoring
+2019/01/05 16:21:50 INFO  : Local file system at /home/john/Documents/House: Waiting for checks to finish
+2019/01/05 16:21:50 INFO  : Local file system at /home/john/Documents/House: Waiting for transfers to finish
+2019/01/05 16:21:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                14
+Transferred:            0
+Elapsed time:        1.1s
+
+################# rclone Games local copy Running...   Sat  5 Jan 16:21:50 GMT 2019
+2019/01/05 16:22:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                17
+Transferred:            0
+Elapsed time:      1m0.6s
+
+2019/01/05 16:23:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               439
+Transferred:            0
+Elapsed time:      2m0.6s
+
+2019/01/05 16:24:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               768
+Transferred:            0
+Elapsed time:      3m0.6s
+
+2019/01/05 16:25:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1062
+Transferred:            0
+Elapsed time:      4m0.6s
+
+2019/01/05 16:26:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1777
+Transferred:            0
+Elapsed time:      5m0.6s
+
+2019/01/05 16:27:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1949
+Transferred:            0
+Elapsed time:      6m0.6s
+
+2019/01/05 16:28:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2200
+Transferred:            0
+Elapsed time:      7m0.6s
+
+2019/01/05 16:29:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2985
+Transferred:            0
+Elapsed time:      8m0.6s
+
+2019/01/05 16:30:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3001
+Transferred:            0
+Elapsed time:      9m0.6s
+
+2019/01/05 16:31:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3296
+Transferred:            0
+Elapsed time:     10m0.6s
+
+2019/01/05 16:32:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3447
+Transferred:            0
+Elapsed time:     11m0.6s
+
+2019/01/05 16:33:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3654
+Transferred:            0
+Elapsed time:     12m0.6s
+
+2019/01/05 16:34:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3946
+Transferred:            0
+Elapsed time:     13m0.6s
+
+2019/01/05 16:35:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4077
+Transferred:            0
+Elapsed time:     14m0.6s
+
+2019/01/05 16:36:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4429
+Transferred:            0
+Elapsed time:     15m0.6s
+
+2019/01/05 16:37:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4956
+Transferred:            0
+Elapsed time:     16m0.6s
+
+2019/01/05 16:38:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              5754
+Transferred:            0
+Elapsed time:     17m0.6s
+
+2019/01/05 16:39:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              5897
+Transferred:            0
+Elapsed time:     18m0.6s
+
+2019/01/05 16:40:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6120
+Transferred:            0
+Elapsed time:     19m0.6s
+
+2019/01/05 16:41:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6566
+Transferred:            0
+Elapsed time:     20m0.6s
+
+2019/01/05 16:42:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              7339
+Transferred:            0
+Elapsed time:     21m0.6s
+
+2019/01/05 16:43:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8111
+Transferred:            0
+Elapsed time:     22m0.6s
+
+2019/01/05 16:44:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8684
+Transferred:            0
+Elapsed time:     23m0.6s
+
+2019/01/05 16:45:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8999
+Transferred:            0
+Elapsed time:     24m0.6s
+
+2019/01/05 16:46:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9356
+Transferred:            0
+Elapsed time:     25m0.6s
+
+2019/01/05 16:47:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9582
+Transferred:            0
+Elapsed time:     26m0.6s
+
+2019/01/05 16:48:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9850
+Transferred:            0
+Elapsed time:     27m0.6s
+
+2019/01/05 16:49:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10328
+Transferred:            0
+Elapsed time:     28m0.6s
+
+2019/01/05 16:50:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10554
+Transferred:            0
+Elapsed time:     29m0.6s
+
+2019/01/05 16:51:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11089
+Transferred:            0
+Elapsed time:     30m0.6s
+
+2019/01/05 16:52:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11196
+Transferred:            0
+Elapsed time:     31m0.6s
+
+2019/01/05 16:53:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11491
+Transferred:            0
+Elapsed time:     32m0.6s
+
+2019/01/05 16:54:46 INFO  : Google drive root 'My Games': Waiting for checks to finish
+2019/01/05 16:54:46 INFO  : Google drive root 'My Games': Waiting for transfers to finish
+2019/01/05 16:54:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11680
+Transferred:            0
+Elapsed time:    32m55.9s
+
+################# rclone Games GoogleDrive copy Running...   Sat  5 Jan 16:54:46 GMT 2019
+2019/01/05 16:55:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                56
+Transferred:            0
+Elapsed time:      1m0.5s
+
+2019/01/05 16:56:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               160
+Transferred:            0
+Elapsed time:      2m0.5s
+
+2019/01/05 16:57:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               575
+Transferred:            0
+Elapsed time:      3m0.5s
+
+2019/01/05 16:58:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               575
+Transferred:            0
+Elapsed time:      4m0.5s
+
+2019/01/05 16:59:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1743
+Transferred:            0
+Elapsed time:      5m0.5s
+
+2019/01/05 17:00:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2022
+Transferred:            0
+Elapsed time:      6m0.5s
+
+2019/01/05 17:01:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2357
+Transferred:            0
+Elapsed time:      7m0.5s
+
+2019/01/05 17:02:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2733
+Transferred:            0
+Elapsed time:      8m0.5s
+
+2019/01/05 17:03:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3106
+Transferred:            0
+Elapsed time:      9m0.5s
+
+2019/01/05 17:04:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3435
+Transferred:            0
+Elapsed time:     10m0.5s
+
+2019/01/05 17:05:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3734
+Transferred:            0
+Elapsed time:     11m0.5s
+
+2019/01/05 17:06:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4007
+Transferred:            0
+Elapsed time:     12m0.5s
+
+2019/01/05 17:07:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4945
+Transferred:            0
+Elapsed time:     13m0.5s
+
+2019/01/05 17:08:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6073
+Transferred:            0
+Elapsed time:     14m0.5s
+
+2019/01/05 17:09:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6125
+Transferred:            0
+Elapsed time:     15m0.5s
+
+2019/01/05 17:10:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              7360
+Transferred:            0
+Elapsed time:     16m0.5s
+
+2019/01/05 17:11:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8083
+Transferred:            0
+Elapsed time:     17m0.5s
+
+2019/01/05 17:12:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8573
+Transferred:            0
+Elapsed time:     18m0.5s
+
+2019/01/05 17:13:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9258
+Transferred:            0
+Elapsed time:     19m0.5s
+
+2019/01/05 17:14:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9845
+Transferred:            0
+Elapsed time:     20m0.5s
+
+2019/01/05 17:15:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10172
+Transferred:            0
+Elapsed time:     21m0.5s
+
+2019/01/05 17:16:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10416
+Transferred:            0
+Elapsed time:     22m0.5s
+
+2019/01/05 17:17:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10804
+Transferred:            0
+Elapsed time:     23m0.5s
+
+2019/01/05 17:18:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11025
+Transferred:            0
+Elapsed time:     24m0.5s
+
+2019/01/05 17:19:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11311
+Transferred:            0
+Elapsed time:     25m0.5s
+
+2019/01/05 17:20:46 INFO  : Local file system at /mnt/freenas/Backups/My Games: Waiting for checks to finish
+2019/01/05 17:20:46 INFO  : Local file system at /mnt/freenas/Backups/My Games: Waiting for transfers to finish
+2019/01/05 17:20:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11680
+Transferred:            0
+Elapsed time:     26m0.5s
+
+2019/01/05 17:20:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11680
+Transferred:            0
+Elapsed time:     26m0.5s
+
+################# rclone Personal local copy Running...   Sat  5 Jan 17:20:46 GMT 2019
+2019/01/05 17:20:50 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 17:20:50 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 17:20:50 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: can't update a google document
+2019/01/05 17:21:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:               571
+Transferred:            0
+Elapsed time:      1m0.4s
+
+2019/01/05 17:22:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              1043
+Transferred:            0
+Elapsed time:      2m0.4s
+
+2019/01/05 17:23:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              1789
+Transferred:            0
+Elapsed time:      3m0.4s
+
+2019/01/05 17:24:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              2464
+Transferred:            0
+Elapsed time:      4m0.4s
+
+2019/01/05 17:25:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              3857
+Transferred:            0
+Elapsed time:      5m0.4s
+
+2019/01/05 17:26:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              4273
+Transferred:            0
+Elapsed time:      6m0.4s
+
+2019/01/05 17:27:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              4533
+Transferred:            0
+Elapsed time:      7m0.4s
+
+2019/01/05 17:28:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              5310
+Transferred:            0
+Elapsed time:      8m0.4s
+
+2019/01/05 17:29:46 INFO  : Google drive root 'Personal': Waiting for checks to finish
+2019/01/05 17:29:46 INFO  : Google drive root 'Personal': Waiting for transfers to finish
+2019/01/05 17:29:46 ERROR : Attempt 1/3 failed with 1 errors and: can't update a google document
+2019/01/05 17:29:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              5750
+Transferred:            0
+Elapsed time:      9m0.4s
+
+2019/01/05 17:29:47 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 17:29:47 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 17:29:47 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: can't update a google document
+2019/01/05 17:30:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              6503
+Transferred:            0
+Elapsed time:     10m0.4s
+
+2019/01/05 17:31:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              7195
+Transferred:            0
+Elapsed time:     11m0.4s
+
+2019/01/05 17:32:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              7619
+Transferred:            0
+Elapsed time:     12m0.4s
+
+2019/01/05 17:33:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              8249
+Transferred:            0
+Elapsed time:     13m0.4s
+
+2019/01/05 17:34:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              9824
+Transferred:            0
+Elapsed time:     14m0.4s
+
+2019/01/05 17:35:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             10160
+Transferred:            0
+Elapsed time:     15m0.4s
+
+2019/01/05 17:36:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             10820
+Transferred:            0
+Elapsed time:     16m0.4s
+
+2019/01/05 17:37:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             11102
+Transferred:            0
+Elapsed time:     17m0.4s
+
+2019/01/05 17:38:28 INFO  : Google drive root 'Personal': Waiting for checks to finish
+2019/01/05 17:38:28 INFO  : Google drive root 'Personal': Waiting for transfers to finish
+2019/01/05 17:38:28 ERROR : Attempt 2/3 failed with 1 errors and: can't update a google document
+2019/01/05 17:38:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11507
+Transferred:            0
+Elapsed time:     18m0.4s
+
+2019/01/05 17:39:24 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 17:39:24 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 17:39:24 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: can't update a google document
+2019/01/05 17:39:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             12080
+Transferred:            0
+Elapsed time:     19m0.4s
+
+2019/01/05 17:40:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             12622
+Transferred:            0
+Elapsed time:     20m0.4s
+
+2019/01/05 17:41:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             13728
+Transferred:            0
+Elapsed time:     21m0.4s
+
+2019/01/05 17:42:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             14916
+Transferred:            0
+Elapsed time:     22m0.4s
+
+2019/01/05 17:43:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             15614
+Transferred:            0
+Elapsed time:     23m0.4s
+
+2019/01/05 17:44:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             15623
+Transferred:            0
+Elapsed time:     24m0.4s
+
+2019/01/05 17:45:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             16231
+Transferred:            0
+Elapsed time:     25m0.4s
+
+2019/01/05 17:46:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             17008
+Transferred:            0
+Elapsed time:     26m0.4s
+
+2019/01/05 17:47:08 INFO  : Google drive root 'Personal': Waiting for checks to finish
+2019/01/05 17:47:08 INFO  : Google drive root 'Personal': Waiting for transfers to finish
+2019/01/05 17:47:08 ERROR : Attempt 3/3 failed with 1 errors and: can't update a google document
+2019/01/05 17:47:08 Failed to copy: can't update a google document
+################# rclone Personal GoogleDrive copy Running...   Sat  5 Jan 17:47:08 GMT 2019
+2019/01/05 17:48:06 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 17:48:06 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 17:48:08 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                88
+Transferred:            0
+Elapsed time:      1m0.4s
+Transferring:
+ * Finances/Finances_calc_2018.xlsx
+
+2019/01/05 17:48:10 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/05 17:49:08 INFO  : 
+Transferred:   84.426 kBytes (717 Bytes/s)
+Errors:                 1
+Checks:              1250
+Transferred:            0
+Elapsed time:      2m0.4s
+
+2019/01/05 17:50:08 INFO  : 
+Transferred:   84.426 kBytes (479 Bytes/s)
+Errors:                 1
+Checks:              4335
+Transferred:            0
+Elapsed time:      3m0.4s
+
+2019/01/05 17:51:08 INFO  : 
+Transferred:   84.426 kBytes (359 Bytes/s)
+Errors:                 1
+Checks:              5143
+Transferred:            0
+Elapsed time:      4m0.4s
+
+2019/01/05 17:52:08 INFO  : 
+Transferred:   84.426 kBytes (287 Bytes/s)
+Errors:                 1
+Checks:              5741
+Transferred:            0
+Elapsed time:      5m0.4s
+
+2019/01/05 17:53:08 INFO  : 
+Transferred:   84.426 kBytes (239 Bytes/s)
+Errors:                 1
+Checks:              5741
+Transferred:            0
+Elapsed time:      6m0.4s
+
+2019/01/05 17:54:08 INFO  : 
+Transferred:   84.426 kBytes (205 Bytes/s)
+Errors:                 1
+Checks:              5741
+Transferred:            0
+Elapsed time:      7m0.4s
+
+2019/01/05 17:54:41 INFO  : Local file system at /home/john/Documents/Personal: Waiting for checks to finish
+2019/01/05 17:54:41 INFO  : Local file system at /home/john/Documents/Personal: Waiting for transfers to finish
+2019/01/05 17:54:41 ERROR : Attempt 1/3 failed with 1 errors and: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/05 17:54:42 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 17:54:42 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 17:54:43 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/05 17:55:08 INFO  : 
+Transferred:   168.854 kBytes (359 Bytes/s)
+Errors:                 1
+Checks:              7958
+Transferred:            0
+Elapsed time:      8m0.4s
+
+2019/01/05 17:56:08 INFO  : 
+Transferred:   168.854 kBytes (319 Bytes/s)
+Errors:                 1
+Checks:             10063
+Transferred:            0
+Elapsed time:      9m0.4s
+
+2019/01/05 17:57:08 INFO  : 
+Transferred:   168.854 kBytes (287 Bytes/s)
+Errors:                 1
+Checks:             11206
+Transferred:            0
+Elapsed time:     10m0.4s
+
+2019/01/05 17:57:29 INFO  : Local file system at /home/john/Documents/Personal: Waiting for checks to finish
+2019/01/05 17:57:29 INFO  : Local file system at /home/john/Documents/Personal: Waiting for transfers to finish
+2019/01/05 17:57:29 ERROR : Attempt 2/3 failed with 1 errors and: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/05 17:57:29 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 17:57:29 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 17:57:30 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/05 17:58:08 INFO  : 
+Transferred:   253.255 kBytes (392 Bytes/s)
+Errors:                 1
+Checks:             11608
+Transferred:            0
+Elapsed time:     11m0.4s
+
+2019/01/05 17:59:08 INFO  : 
+Transferred:   253.255 kBytes (359 Bytes/s)
+Errors:                 1
+Checks:             12411
+Transferred:            0
+Elapsed time:     12m0.4s
+
+ 
+##################################################
+rclone initialised at Sat  5 Jan 18:00:01 GMT 2019
+##################################################
+ 
+################# rclone Apps local copy Running...   Sat  5 Jan 18:00:01 GMT 2019
+2019/01/05 18:00:03 INFO  : Google drive root 'Apps': Waiting for checks to finish
+2019/01/05 18:00:03 INFO  : Google drive root 'Apps': Waiting for transfers to finish
+2019/01/05 18:00:03 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                11
+Transferred:            0
+Elapsed time:        1.1s
+
+################# rclone Apps GoogleDrive copy Running...   Sat  5 Jan 18:00:03 GMT 2019
+2019/01/05 18:00:08 INFO  : 
+Transferred:   253.255 kBytes (332 Bytes/s)
+Errors:                 1
+Checks:             13879
+Transferred:            0
+Elapsed time:     13m0.4s
+
+2019/01/05 18:00:29 INFO  : Local file system at /home/john/Documents/Apps: Waiting for checks to finish
+2019/01/05 18:00:29 INFO  : Local file system at /home/john/Documents/Apps: Waiting for transfers to finish
+2019/01/05 18:00:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                11
+Transferred:            0
+Elapsed time:       26.5s
+
+################# rclone Books local copy Running...   Sat  5 Jan 18:00:29 GMT 2019
+2019/01/05 18:01:08 INFO  : 
+Transferred:   253.255 kBytes (308 Bytes/s)
+Errors:                 1
+Checks:             13885
+Transferred:            0
+Elapsed time:     14m0.4s
+
+2019/01/05 18:01:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               137
+Transferred:            0
+Elapsed time:      1m9.3s
+
+2019/01/05 18:02:08 INFO  : 
+Transferred:   253.255 kBytes (287 Bytes/s)
+Errors:                 1
+Checks:             14609
+Transferred:            0
+Elapsed time:     15m0.4s
+
+2019/01/05 18:02:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               276
+Transferred:            0
+Elapsed time:      2m9.3s
+
+2019/01/05 18:03:08 INFO  : 
+Transferred:   253.255 kBytes (270 Bytes/s)
+Errors:                 1
+Checks:             15893
+Transferred:            0
+Elapsed time:     16m0.4s
+
+2019/01/05 18:03:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               371
+Transferred:            0
+Elapsed time:      3m9.3s
+
+2019/01/05 18:04:08 INFO  : 
+Transferred:   253.255 kBytes (254 Bytes/s)
+Errors:                 1
+Checks:             16649
+Transferred:            0
+Elapsed time:     17m0.4s
+
+2019/01/05 18:04:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               440
+Transferred:            0
+Elapsed time:      4m9.3s
+
+2019/01/05 18:05:08 INFO  : 
+Transferred:   253.255 kBytes (240 Bytes/s)
+Errors:                 1
+Checks:             16694
+Transferred:            0
+Elapsed time:     18m0.4s
+
+2019/01/05 18:05:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               645
+Transferred:            0
+Elapsed time:      5m9.3s
+
+2019/01/05 18:06:08 INFO  : 
+Transferred:   253.255 kBytes (227 Bytes/s)
+Errors:                 1
+Checks:             16699
+Transferred:            0
+Elapsed time:     19m0.4s
+
+2019/01/05 18:06:30 INFO  : Local file system at /home/john/Documents/Personal: Waiting for checks to finish
+2019/01/05 18:06:30 INFO  : Local file system at /home/john/Documents/Personal: Waiting for transfers to finish
+2019/01/05 18:06:30 ERROR : Attempt 3/3 failed with 1 errors and: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/05 18:06:30 Failed to copy: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+################# rclone Work local copy Running...   Sat  5 Jan 18:06:30 GMT 2019
+2019/01/05 18:06:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               845
+Transferred:            0
+Elapsed time:      6m9.3s
+
+2019/01/05 18:07:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1026
+Transferred:            0
+Elapsed time:      7m9.3s
+
+2019/01/05 18:07:39 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               131
+Transferred:            0
+Elapsed time:      1m8.3s
+
+2019/01/05 18:07:46 INFO  : Google drive root 'Books': Waiting for checks to finish
+2019/01/05 18:07:46 INFO  : Google drive root 'Books': Waiting for transfers to finish
+2019/01/05 18:07:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1159
+Transferred:            0
+Elapsed time:     7m17.2s
+
+################# rclone Books GoogleDrive copy Running...   Sat  5 Jan 18:07:46 GMT 2019
+2019/01/05 18:08:39 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               262
+Transferred:            0
+Elapsed time:      2m8.3s
+
+2019/01/05 18:08:46 INFO  : Google drive root 'Work Personal': Waiting for checks to finish
+2019/01/05 18:08:46 INFO  : Google drive root 'Work Personal': Waiting for transfers to finish
+2019/01/05 18:08:46 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               367
+Transferred:            0
+Elapsed time:       2m16s
+
+################# rclone Work GoogleDrive copy Running...   Sat  5 Jan 18:08:46 GMT 2019
+2019/01/05 18:08:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                23
+Transferred:            0
+Elapsed time:      1m0.4s
+
+2019/01/05 18:09:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               155
+Transferred:            0
+Elapsed time:      2m0.4s
+
+2019/01/05 18:09:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               242
+Transferred:            0
+Elapsed time:      1m0.5s
+
+2019/01/05 18:09:50 INFO  : Local file system at /home/john/Work/Work Personal: Waiting for checks to finish
+2019/01/05 18:09:50 INFO  : Local file system at /home/john/Work/Work Personal: Waiting for transfers to finish
+2019/01/05 18:09:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               367
+Transferred:            0
+Elapsed time:      1m3.2s
+
+################# rclone Pictures local copy Running...   Sat  5 Jan 18:09:50 GMT 2019
+2019/01/05 18:10:23 INFO  : Google drive root 'Google Photos': Waiting for checks to finish
+2019/01/05 18:10:23 INFO  : Google drive root 'Google Photos': Waiting for transfers to finish
+2019/01/05 18:10:23 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6764
+Transferred:            0
+Elapsed time:       32.9s
+
+################# rclone Pictures GoogleDrive copy Running...   Sat  5 Jan 18:10:23 GMT 2019
+2019/01/05 18:10:28 INFO  : 2019/IMG-20190105-WA0004.jpeg: Copied (new)
+2019/01/05 18:10:29 INFO  : 2019/IMG-20190105-WA0002.jpeg: Copied (new)
+2019/01/05 18:10:29 INFO  : 2019/IMG-20190105-WA0000.jpeg: Copied (new)
+2019/01/05 18:10:30 INFO  : Local file system at /home/john/Pictures/Google Photos: Waiting for checks to finish
+2019/01/05 18:10:30 INFO  : Local file system at /home/john/Pictures/Google Photos: Waiting for transfers to finish
+2019/01/05 18:10:30 INFO  : 
+Transferred:   7.292 MBytes (1.038 MBytes/s)
+Errors:                 0
+Checks:              6764
+Transferred:            3
+Elapsed time:          7s
+
+################# rclone images local copy Running...   Sat  5 Jan 18:10:30 GMT 2019
+2019/01/05 18:10:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               288
+Transferred:            0
+Elapsed time:      3m0.4s
+
+2019/01/05 18:11:06 INFO  : Google drive root 'images': Waiting for checks to finish
+2019/01/05 18:11:06 INFO  : Google drive root 'images': Waiting for transfers to finish
+2019/01/05 18:11:06 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               281
+Transferred:            0
+Elapsed time:       36.5s
+
+################# rclone images GoogleDrive copy Running...   Sat  5 Jan 18:11:06 GMT 2019
+2019/01/05 18:11:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               345
+Transferred:            0
+Elapsed time:      4m0.4s
+
+2019/01/05 18:12:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               482
+Transferred:            0
+Elapsed time:      5m0.4s
+
+2019/01/05 18:13:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               624
+Transferred:            0
+Elapsed time:      6m0.4s
+
+2019/01/05 18:14:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               717
+Transferred:            0
+Elapsed time:      7m0.4s
+
+2019/01/05 18:14:59 INFO  : Local file system at /home/john/Pictures/images: Waiting for checks to finish
+2019/01/05 18:14:59 INFO  : Local file system at /home/john/Pictures/images: Waiting for transfers to finish
+2019/01/05 18:14:59 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               281
+Transferred:            0
+Elapsed time:     3m53.2s
+
+###########################################
+####### All rclone copies complete! #######   Sat  5 Jan 18:14:59 GMT 2019
+###########################################
+2019/01/05 18:15:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               890
+Transferred:            0
+Elapsed time:      8m0.4s
+
+2019/01/05 18:16:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1117
+Transferred:            0
+Elapsed time:      9m0.4s
+
+2019/01/05 18:17:08 INFO  : Local file system at /home/john/Documents/Books: Waiting for checks to finish
+2019/01/05 18:17:08 INFO  : Local file system at /home/john/Documents/Books: Waiting for transfers to finish
+2019/01/05 18:17:08 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1159
+Transferred:            0
+Elapsed time:     9m21.5s
+
+################# rclone Comics local copy Running...   Sat  5 Jan 18:17:08 GMT 2019
+2019/01/05 18:17:49 INFO  : Google drive root 'Comics': Waiting for checks to finish
+2019/01/05 18:17:49 INFO  : Google drive root 'Comics': Waiting for transfers to finish
+2019/01/05 18:17:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               812
+Transferred:            0
+Elapsed time:       40.6s
+
+################# rclone Comics GoogleDrive copy Running...   Sat  5 Jan 18:17:49 GMT 2019
+2019/01/05 18:18:26 INFO  : Local file system at /home/john/Documents/Comics: Waiting for checks to finish
+2019/01/05 18:18:26 INFO  : Local file system at /home/john/Documents/Comics: Waiting for transfers to finish
+2019/01/05 18:18:26 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               812
+Transferred:            0
+Elapsed time:       37.6s
+
+################# rclone House local copy Running...   Sat  5 Jan 18:18:26 GMT 2019
+2019/01/05 18:18:28 NOTICE: 49 Winchester Close/Paving Plan.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 18:18:28 INFO  : Google drive root 'House': Waiting for checks to finish
+2019/01/05 18:18:28 INFO  : Google drive root 'House': Waiting for transfers to finish
+2019/01/05 18:18:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                14
+Transferred:            0
+Elapsed time:        1.8s
+
+################# rclone House GoogleDrive copy Running...   Sat  5 Jan 18:18:28 GMT 2019
+2019/01/05 18:18:37 NOTICE: 49 Winchester Close/Paving Plan.xlsx: Duplicate object found in source - ignoring
+2019/01/05 18:18:37 INFO  : Local file system at /home/john/Documents/House: Waiting for checks to finish
+2019/01/05 18:18:37 INFO  : Local file system at /home/john/Documents/House: Waiting for transfers to finish
+2019/01/05 18:18:37 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                14
+Transferred:            0
+Elapsed time:        8.7s
+
+################# rclone Games local copy Running...   Sat  5 Jan 18:18:37 GMT 2019
+2019/01/05 18:19:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               364
+Transferred:            0
+Elapsed time:      1m0.8s
+
+2019/01/05 18:20:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               613
+Transferred:            0
+Elapsed time:      2m0.8s
+
+2019/01/05 18:21:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               802
+Transferred:            0
+Elapsed time:      3m0.8s
+
+2019/01/05 18:22:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1111
+Transferred:            0
+Elapsed time:      4m0.8s
+
+2019/01/05 18:23:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1751
+Transferred:            0
+Elapsed time:      5m0.8s
+
+2019/01/05 18:24:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1974
+Transferred:            0
+Elapsed time:      6m0.8s
+
+2019/01/05 18:25:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2306
+Transferred:            0
+Elapsed time:      7m0.8s
+
+2019/01/05 18:26:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3080
+Transferred:            0
+Elapsed time:      8m0.8s
+
+2019/01/05 18:27:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3310
+Transferred:            0
+Elapsed time:      9m0.8s
+
+2019/01/05 18:28:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3501
+Transferred:            0
+Elapsed time:     10m0.8s
+
+2019/01/05 18:29:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3931
+Transferred:            0
+Elapsed time:     11m0.8s
+
+2019/01/05 18:30:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3966
+Transferred:            0
+Elapsed time:     12m0.8s
+
+2019/01/05 18:31:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4325
+Transferred:            0
+Elapsed time:     13m0.8s
+
+2019/01/05 18:32:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4747
+Transferred:            0
+Elapsed time:     14m0.8s
+
+2019/01/05 18:33:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4907
+Transferred:            0
+Elapsed time:     15m0.8s
+
+2019/01/05 18:34:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              5771
+Transferred:            0
+Elapsed time:     16m0.8s
+
+2019/01/05 18:35:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6432
+Transferred:            0
+Elapsed time:     17m0.8s
+
+2019/01/05 18:36:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6952
+Transferred:            0
+Elapsed time:     18m0.8s
+
+2019/01/05 18:37:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              7966
+Transferred:            0
+Elapsed time:     19m0.8s
+
+2019/01/05 18:38:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8520
+Transferred:            0
+Elapsed time:     20m0.8s
+
+2019/01/05 18:39:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9054
+Transferred:            0
+Elapsed time:     21m0.8s
+
+2019/01/05 18:40:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9468
+Transferred:            0
+Elapsed time:     22m0.8s
+
+2019/01/05 18:41:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9896
+Transferred:            0
+Elapsed time:     23m0.8s
+
+2019/01/05 18:42:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10390
+Transferred:            0
+Elapsed time:     24m0.8s
+
+2019/01/05 18:43:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10765
+Transferred:            0
+Elapsed time:     25m0.8s
+
+2019/01/05 18:44:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11180
+Transferred:            0
+Elapsed time:     26m0.8s
+
+2019/01/05 18:45:29 INFO  : Google drive root 'My Games': Waiting for checks to finish
+2019/01/05 18:45:29 INFO  : Google drive root 'My Games': Waiting for transfers to finish
+2019/01/05 18:45:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11680
+Transferred:            0
+Elapsed time:    26m52.2s
+
+################# rclone Games GoogleDrive copy Running...   Sat  5 Jan 18:45:29 GMT 2019
+2019/01/05 18:46:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                22
+Transferred:            0
+Elapsed time:      1m0.4s
+
+2019/01/05 18:47:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               539
+Transferred:            0
+Elapsed time:      2m0.4s
+
+2019/01/05 18:48:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               619
+Transferred:            0
+Elapsed time:      3m0.4s
+
+2019/01/05 18:49:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1624
+Transferred:            0
+Elapsed time:      4m0.4s
+
+2019/01/05 18:50:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1653
+Transferred:            0
+Elapsed time:      5m0.4s
+
+2019/01/05 18:51:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1745
+Transferred:            0
+Elapsed time:      6m0.4s
+
+2019/01/05 18:52:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2016
+Transferred:            0
+Elapsed time:      7m0.4s
+
+2019/01/05 18:53:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2301
+Transferred:            0
+Elapsed time:      8m0.4s
+
+2019/01/05 18:54:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2303
+Transferred:            0
+Elapsed time:      9m0.4s
+
+2019/01/05 18:55:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2416
+Transferred:            0
+Elapsed time:     10m0.4s
+
+2019/01/05 18:56:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3331
+Transferred:            0
+Elapsed time:     11m0.4s
+
+2019/01/05 18:57:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3479
+Transferred:            0
+Elapsed time:     12m0.4s
+
+2019/01/05 18:58:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3833
+Transferred:            0
+Elapsed time:     13m0.4s
+
+2019/01/05 18:59:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3872
+Transferred:            0
+Elapsed time:     14m0.4s
+
+2019/01/05 19:00:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4112
+Transferred:            0
+Elapsed time:     15m0.4s
+
+2019/01/05 19:01:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4348
+Transferred:            0
+Elapsed time:     16m0.4s
+
+2019/01/05 19:02:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4737
+Transferred:            0
+Elapsed time:     17m0.4s
+
+2019/01/05 19:03:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4770
+Transferred:            0
+Elapsed time:     18m0.4s
+
+2019/01/05 19:04:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              5868
+Transferred:            0
+Elapsed time:     19m0.4s
+
+2019/01/05 19:05:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              5882
+Transferred:            0
+Elapsed time:     20m0.4s
+
+2019/01/05 19:06:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6114
+Transferred:            0
+Elapsed time:     21m0.4s
+
+2019/01/05 19:07:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6986
+Transferred:            0
+Elapsed time:     22m0.4s
+
+2019/01/05 19:08:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              7741
+Transferred:            0
+Elapsed time:     23m0.4s
+
+2019/01/05 19:09:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8564
+Transferred:            0
+Elapsed time:     24m0.4s
+
+2019/01/05 19:10:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8803
+Transferred:            0
+Elapsed time:     25m0.4s
+
+2019/01/05 19:11:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9628
+Transferred:            0
+Elapsed time:     26m0.4s
+
+2019/01/05 19:12:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9883
+Transferred:            0
+Elapsed time:     27m0.4s
+
+2019/01/05 19:13:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10041
+Transferred:            0
+Elapsed time:     28m0.4s
+
+2019/01/05 19:14:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10263
+Transferred:            0
+Elapsed time:     29m0.4s
+
+2019/01/05 19:15:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10666
+Transferred:            0
+Elapsed time:     30m0.4s
+
+2019/01/05 19:16:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10837
+Transferred:            0
+Elapsed time:     31m0.4s
+
+2019/01/05 19:17:30 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11230
+Transferred:            0
+Elapsed time:     32m0.4s
+
+2019/01/05 19:18:27 INFO  : Local file system at /mnt/freenas/Backups/My Games: Waiting for checks to finish
+2019/01/05 19:18:27 INFO  : Local file system at /mnt/freenas/Backups/My Games: Waiting for transfers to finish
+2019/01/05 19:18:27 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11680
+Transferred:            0
+Elapsed time:    32m58.2s
+
+################# rclone Personal local copy Running...   Sat  5 Jan 19:18:27 GMT 2019
+2019/01/05 19:18:29 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 19:18:29 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 19:18:29 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 19:18:29 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: can't update a google document
+2019/01/05 19:19:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:               540
+Transferred:            0
+Elapsed time:      1m0.4s
+
+2019/01/05 19:20:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              1669
+Transferred:            0
+Elapsed time:      2m0.4s
+
+2019/01/05 19:21:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              2292
+Transferred:            0
+Elapsed time:      3m0.4s
+
+2019/01/05 19:22:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              3577
+Transferred:            0
+Elapsed time:      4m0.4s
+
+2019/01/05 19:23:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              4400
+Transferred:            0
+Elapsed time:      5m0.4s
+
+2019/01/05 19:24:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              5206
+Transferred:            0
+Elapsed time:      6m0.4s
+
+2019/01/05 19:25:27 INFO  : Google drive root 'Personal': Waiting for checks to finish
+2019/01/05 19:25:27 INFO  : Google drive root 'Personal': Waiting for transfers to finish
+2019/01/05 19:25:27 ERROR : Attempt 1/3 failed with 1 errors and: can't update a google document
+2019/01/05 19:25:28 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 19:25:28 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 19:25:28 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 19:25:28 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: can't update a google document
+2019/01/05 19:25:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              5772
+Transferred:            0
+Elapsed time:      7m0.4s
+
+2019/01/05 19:26:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              6625
+Transferred:            0
+Elapsed time:      8m0.4s
+
+2019/01/05 19:27:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              7901
+Transferred:            0
+Elapsed time:      9m0.4s
+
+2019/01/05 19:28:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              9097
+Transferred:            0
+Elapsed time:     10m0.4s
+
+2019/01/05 19:29:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             10087
+Transferred:            0
+Elapsed time:     11m0.4s
+
+2019/01/05 19:30:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             10749
+Transferred:            0
+Elapsed time:     12m0.4s
+
+2019/01/05 19:31:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             11067
+Transferred:            0
+Elapsed time:     13m0.4s
+
+2019/01/05 19:31:49 INFO  : Google drive root 'Personal': Waiting for checks to finish
+2019/01/05 19:31:49 INFO  : Google drive root 'Personal': Waiting for transfers to finish
+2019/01/05 19:31:49 ERROR : Attempt 2/3 failed with 1 errors and: can't update a google document
+2019/01/05 19:32:27 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 19:32:27 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 19:32:27 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 19:32:27 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: can't update a google document
+2019/01/05 19:32:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             11604
+Transferred:            0
+Elapsed time:     14m0.4s
+
+2019/01/05 19:33:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             13077
+Transferred:            0
+Elapsed time:     15m0.4s
+
+2019/01/05 19:34:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             14061
+Transferred:            0
+Elapsed time:     16m0.4s
+
+2019/01/05 19:35:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             16011
+Transferred:            0
+Elapsed time:     17m0.4s
+
+2019/01/05 19:36:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             16810
+Transferred:            0
+Elapsed time:     18m0.4s
+
+2019/01/05 19:36:49 INFO  : Google drive root 'Personal': Waiting for checks to finish
+2019/01/05 19:36:49 INFO  : Google drive root 'Personal': Waiting for transfers to finish
+2019/01/05 19:36:49 ERROR : Attempt 3/3 failed with 1 errors and: can't update a google document
+2019/01/05 19:36:49 Failed to copy: can't update a google document
+################# rclone Personal GoogleDrive copy Running...   Sat  5 Jan 19:36:49 GMT 2019
+2019/01/05 19:37:27 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 19:37:27 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 19:37:27 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 19:37:28 INFO  : Finances/2019-remortgage.xlsx: Copied (new)
+2019/01/05 19:37:29 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/05 19:37:50 INFO  : 
+Transferred:   115.968 kBytes (1.917 kBytes/s)
+Errors:                 1
+Checks:               464
+Transferred:            1
+Elapsed time:      1m0.4s
+
+2019/01/05 19:38:50 INFO  : 
+Transferred:   115.968 kBytes (985 Bytes/s)
+Errors:                 1
+Checks:              3516
+Transferred:            1
+Elapsed time:      2m0.4s
+
+2019/01/05 19:39:50 INFO  : 
+Transferred:   115.968 kBytes (657 Bytes/s)
+Errors:                 1
+Checks:              4338
+Transferred:            1
+Elapsed time:      3m0.4s
+
+2019/01/05 19:40:50 INFO  : 
+Transferred:   115.968 kBytes (493 Bytes/s)
+Errors:                 1
+Checks:              5202
+Transferred:            1
+Elapsed time:      4m0.4s
+
+2019/01/05 19:41:50 INFO  : 
+Transferred:   115.968 kBytes (395 Bytes/s)
+Errors:                 1
+Checks:              5547
+Transferred:            1
+Elapsed time:      5m0.4s
+
+2019/01/05 19:41:56 INFO  : Local file system at /home/john/Documents/Personal: Waiting for checks to finish
+2019/01/05 19:41:56 INFO  : Local file system at /home/john/Documents/Personal: Waiting for transfers to finish
+2019/01/05 19:41:56 ERROR : Attempt 1/3 failed with 1 errors and: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/05 19:41:58 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 19:41:58 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 19:41:58 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 19:41:59 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/05 19:42:50 INFO  : 
+Transferred:   218.803 kBytes (621 Bytes/s)
+Errors:                 1
+Checks:              8050
+Transferred:            1
+Elapsed time:      6m0.4s
+
+2019/01/05 19:43:50 INFO  : 
+Transferred:   218.803 kBytes (532 Bytes/s)
+Errors:                 1
+Checks:              9410
+Transferred:            1
+Elapsed time:      7m0.4s
+
+2019/01/05 19:44:50 INFO  : 
+Transferred:   218.803 kBytes (466 Bytes/s)
+Errors:                 1
+Checks:             10120
+Transferred:            1
+Elapsed time:      8m0.4s
+
+2019/01/05 19:45:50 INFO  : 
+Transferred:   218.803 kBytes (414 Bytes/s)
+Errors:                 1
+Checks:             10595
+Transferred:            1
+Elapsed time:      9m0.4s
+
+2019/01/05 19:46:28 INFO  : Local file system at /home/john/Documents/Personal: Waiting for checks to finish
+2019/01/05 19:46:28 INFO  : Local file system at /home/john/Documents/Personal: Waiting for transfers to finish
+2019/01/05 19:46:28 ERROR : Attempt 2/3 failed with 1 errors and: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/05 19:46:29 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 19:46:29 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 19:46:29 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 19:46:30 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/05 19:46:50 INFO  : 
+Transferred:   321.639 kBytes (548 Bytes/s)
+Errors:                 1
+Checks:             11723
+Transferred:            1
+Elapsed time:     10m0.4s
+
+2019/01/05 19:47:50 INFO  : 
+Transferred:   321.639 kBytes (498 Bytes/s)
+Errors:                 1
+Checks:             12606
+Transferred:            1
+Elapsed time:     11m0.4s
+
+2019/01/05 19:48:50 INFO  : 
+Transferred:   321.639 kBytes (457 Bytes/s)
+Errors:                 1
+Checks:             13990
+Transferred:            1
+Elapsed time:     12m0.4s
+
+2019/01/05 19:49:50 INFO  : 
+Transferred:   321.639 kBytes (421 Bytes/s)
+Errors:                 1
+Checks:             15400
+Transferred:            1
+Elapsed time:     13m0.4s
+
+2019/01/05 19:50:50 INFO  : 
+Transferred:   321.639 kBytes (391 Bytes/s)
+Errors:                 1
+Checks:             16164
+Transferred:            1
+Elapsed time:     14m0.4s
+
+2019/01/05 19:51:50 INFO  : 
+Transferred:   321.639 kBytes (365 Bytes/s)
+Errors:                 1
+Checks:             16858
+Transferred:            1
+Elapsed time:     15m0.4s
+
+2019/01/05 19:52:10 INFO  : Local file system at /home/john/Documents/Personal: Waiting for checks to finish
+2019/01/05 19:52:10 INFO  : Local file system at /home/john/Documents/Personal: Waiting for transfers to finish
+2019/01/05 19:52:10 ERROR : Attempt 3/3 failed with 1 errors and: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/05 19:52:10 Failed to copy: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+################# rclone Work local copy Running...   Sat  5 Jan 19:52:10 GMT 2019
+2019/01/05 19:53:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               125
+Transferred:            0
+Elapsed time:        1m9s
+
+2019/01/05 19:53:29 INFO  : Google drive root 'Work Personal': Waiting for checks to finish
+2019/01/05 19:53:29 INFO  : Google drive root 'Work Personal': Waiting for transfers to finish
+2019/01/05 19:53:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               367
+Transferred:            0
+Elapsed time:     1m18.7s
+
+################# rclone Work GoogleDrive copy Running...   Sat  5 Jan 19:53:29 GMT 2019
+2019/01/05 19:54:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               253
+Transferred:            0
+Elapsed time:      1m0.4s
+
+2019/01/05 19:55:25 INFO  : Local file system at /home/john/Work/Work Personal: Waiting for checks to finish
+2019/01/05 19:55:25 INFO  : Local file system at /home/john/Work/Work Personal: Waiting for transfers to finish
+2019/01/05 19:55:25 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               367
+Transferred:            0
+Elapsed time:     1m56.1s
+
+################# rclone Pictures local copy Running...   Sat  5 Jan 19:55:25 GMT 2019
+2019/01/05 19:55:48 INFO  : Google drive root 'Google Photos': Waiting for checks to finish
+2019/01/05 19:55:48 INFO  : Google drive root 'Google Photos': Waiting for transfers to finish
+2019/01/05 19:55:48 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6767
+Transferred:            0
+Elapsed time:       23.7s
+
+################# rclone Pictures GoogleDrive copy Running...   Sat  5 Jan 19:55:48 GMT 2019
+2019/01/05 19:56:21 INFO  : 2019/IMG-20190105-WA0006.jpg: Copied (new)
+2019/01/05 19:56:21 INFO  : 2019/IMG-20190105-WA0007.jpg: Copied (new)
+2019/01/05 19:56:27 INFO  : Local file system at /home/john/Pictures/Google Photos: Waiting for checks to finish
+2019/01/05 19:56:27 INFO  : Local file system at /home/john/Pictures/Google Photos: Waiting for transfers to finish
+2019/01/05 19:56:27 INFO  : 
+Transferred:   133.935 kBytes (3.517 kBytes/s)
+Errors:                 0
+Checks:              6767
+Transferred:            2
+Elapsed time:         38s
+
+################# rclone images local copy Running...   Sat  5 Jan 19:56:27 GMT 2019
+2019/01/05 19:56:29 INFO  : Google drive root 'images': Waiting for checks to finish
+2019/01/05 19:56:29 INFO  : Google drive root 'images': Waiting for transfers to finish
+2019/01/05 19:56:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               281
+Transferred:            0
+Elapsed time:        2.7s
+
+################# rclone images GoogleDrive copy Running...   Sat  5 Jan 19:56:29 GMT 2019
+2019/01/05 19:56:49 INFO  : Local file system at /home/john/Pictures/images: Waiting for checks to finish
+2019/01/05 19:56:49 INFO  : Local file system at /home/john/Pictures/images: Waiting for transfers to finish
+2019/01/05 19:56:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               281
+Transferred:            0
+Elapsed time:       19.5s
+
+###########################################
+####### All rclone copies complete! #######   Sat  5 Jan 19:56:49 GMT 2019
+###########################################
+ 
+##################################################
+rclone initialised at Sat  5 Jan 20:00:01 GMT 2019
+##################################################
+ 
+################# rclone Apps local copy Running...   Sat  5 Jan 20:00:01 GMT 2019
+2019/01/05 20:00:03 INFO  : Google drive root 'Apps': Waiting for checks to finish
+2019/01/05 20:00:03 INFO  : Google drive root 'Apps': Waiting for transfers to finish
+2019/01/05 20:00:03 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                11
+Transferred:            0
+Elapsed time:        1.5s
+
+################# rclone Apps GoogleDrive copy Running...   Sat  5 Jan 20:00:03 GMT 2019
+2019/01/05 20:00:04 INFO  : Local file system at /home/john/Documents/Apps: Waiting for checks to finish
+2019/01/05 20:00:04 INFO  : Local file system at /home/john/Documents/Apps: Waiting for transfers to finish
+2019/01/05 20:00:04 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                11
+Transferred:            0
+Elapsed time:        1.3s
+
+################# rclone Books local copy Running...   Sat  5 Jan 20:00:04 GMT 2019
+2019/01/05 20:01:04 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               116
+Transferred:            0
+Elapsed time:      1m0.5s
+
+2019/01/05 20:02:04 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               119
+Transferred:            0
+Elapsed time:      2m0.5s
+
+2019/01/05 20:03:04 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               416
+Transferred:            0
+Elapsed time:      3m0.5s
+
+2019/01/05 20:04:04 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               422
+Transferred:            0
+Elapsed time:      4m0.5s
+
+2019/01/05 20:05:04 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               868
+Transferred:            0
+Elapsed time:      5m0.5s
+
+2019/01/05 20:06:04 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               975
+Transferred:            0
+Elapsed time:      6m0.5s
+
+2019/01/05 20:07:04 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1117
+Transferred:            0
+Elapsed time:      7m0.5s
+
+2019/01/05 20:07:07 INFO  : Google drive root 'Books': Waiting for checks to finish
+2019/01/05 20:07:07 INFO  : Google drive root 'Books': Waiting for transfers to finish
+2019/01/05 20:07:07 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1159
+Transferred:            0
+Elapsed time:      7m2.9s
+
+################# rclone Books GoogleDrive copy Running...   Sat  5 Jan 20:07:07 GMT 2019
+2019/01/05 20:08:07 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               143
+Transferred:            0
+Elapsed time:      1m0.5s
+
+2019/01/05 20:09:07 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               224
+Transferred:            0
+Elapsed time:      2m0.5s
+
+2019/01/05 20:10:07 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               309
+Transferred:            0
+Elapsed time:      3m0.5s
+
+2019/01/05 20:11:07 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               470
+Transferred:            0
+Elapsed time:      4m0.5s
+
+2019/01/05 20:12:07 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               594
+Transferred:            0
+Elapsed time:      5m0.5s
+
+2019/01/05 20:13:07 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               711
+Transferred:            0
+Elapsed time:      6m0.5s
+
+2019/01/05 20:14:07 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               867
+Transferred:            0
+Elapsed time:      7m0.5s
+
+2019/01/05 20:15:07 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1014
+Transferred:            0
+Elapsed time:      8m0.5s
+
+2019/01/05 20:15:49 INFO  : Local file system at /home/john/Documents/Books: Waiting for checks to finish
+2019/01/05 20:15:49 INFO  : Local file system at /home/john/Documents/Books: Waiting for transfers to finish
+2019/01/05 20:15:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1159
+Transferred:            0
+Elapsed time:       8m42s
+
+################# rclone Comics local copy Running...   Sat  5 Jan 20:15:49 GMT 2019
+2019/01/05 20:16:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               791
+Transferred:            0
+Elapsed time:      1m0.5s
+
+2019/01/05 20:16:50 INFO  : Google drive root 'Comics': Waiting for checks to finish
+2019/01/05 20:16:50 INFO  : Google drive root 'Comics': Waiting for transfers to finish
+2019/01/05 20:16:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               812
+Transferred:            0
+Elapsed time:      1m0.6s
+
+################# rclone Comics GoogleDrive copy Running...   Sat  5 Jan 20:16:50 GMT 2019
+2019/01/05 20:17:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               596
+Transferred:            0
+Elapsed time:      1m0.5s
+
+2019/01/05 20:18:07 INFO  : Local file system at /home/john/Documents/Comics: Waiting for checks to finish
+2019/01/05 20:18:07 INFO  : Local file system at /home/john/Documents/Comics: Waiting for transfers to finish
+2019/01/05 20:18:07 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               812
+Transferred:            0
+Elapsed time:     1m17.6s
+
+################# rclone House local copy Running...   Sat  5 Jan 20:18:07 GMT 2019
+2019/01/05 20:18:09 NOTICE: 49 Winchester Close/Paving Plan.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 20:18:09 INFO  : Google drive root 'House': Waiting for checks to finish
+2019/01/05 20:18:09 INFO  : Google drive root 'House': Waiting for transfers to finish
+2019/01/05 20:18:09 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                14
+Transferred:            0
+Elapsed time:        1.3s
+
+################# rclone House GoogleDrive copy Running...   Sat  5 Jan 20:18:09 GMT 2019
+2019/01/05 20:18:10 NOTICE: 49 Winchester Close/Paving Plan.xlsx: Duplicate object found in source - ignoring
+2019/01/05 20:18:10 INFO  : Local file system at /home/john/Documents/House: Waiting for checks to finish
+2019/01/05 20:18:10 INFO  : Local file system at /home/john/Documents/House: Waiting for transfers to finish
+2019/01/05 20:18:10 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                14
+Transferred:            0
+Elapsed time:        1.4s
+
+################# rclone Games local copy Running...   Sat  5 Jan 20:18:10 GMT 2019
+2019/01/05 20:19:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                37
+Transferred:            0
+Elapsed time:      1m9.1s
+
+2019/01/05 20:20:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               384
+Transferred:            0
+Elapsed time:      2m9.1s
+
+2019/01/05 20:21:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               586
+Transferred:            0
+Elapsed time:      3m9.1s
+
+2019/01/05 20:22:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               859
+Transferred:            0
+Elapsed time:      4m9.1s
+
+2019/01/05 20:23:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1065
+Transferred:            0
+Elapsed time:      5m9.1s
+
+2019/01/05 20:24:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1438
+Transferred:            0
+Elapsed time:      6m9.1s
+
+2019/01/05 20:25:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1770
+Transferred:            0
+Elapsed time:      7m9.1s
+
+2019/01/05 20:26:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1982
+Transferred:            0
+Elapsed time:      8m9.1s
+
+2019/01/05 20:27:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2315
+Transferred:            0
+Elapsed time:      9m9.1s
+
+2019/01/05 20:28:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2813
+Transferred:            0
+Elapsed time:     10m9.1s
+
+2019/01/05 20:29:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3000
+Transferred:            0
+Elapsed time:     11m9.1s
+
+2019/01/05 20:30:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3302
+Transferred:            0
+Elapsed time:     12m9.1s
+
+2019/01/05 20:31:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3382
+Transferred:            0
+Elapsed time:     13m9.1s
+
+2019/01/05 20:32:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3513
+Transferred:            0
+Elapsed time:     14m9.1s
+
+2019/01/05 20:33:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3904
+Transferred:            0
+Elapsed time:     15m9.1s
+
+2019/01/05 20:34:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4312
+Transferred:            0
+Elapsed time:     16m9.1s
+
+2019/01/05 20:35:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4562
+Transferred:            0
+Elapsed time:     17m9.1s
+
+2019/01/05 20:36:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              5625
+Transferred:            0
+Elapsed time:     18m9.1s
+
+2019/01/05 20:37:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              5626
+Transferred:            0
+Elapsed time:     19m9.1s
+
+2019/01/05 20:38:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6081
+Transferred:            0
+Elapsed time:     20m9.1s
+
+2019/01/05 20:39:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6116
+Transferred:            0
+Elapsed time:     21m9.1s
+
+2019/01/05 20:40:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6388
+Transferred:            0
+Elapsed time:     22m9.1s
+
+2019/01/05 20:41:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6870
+Transferred:            0
+Elapsed time:     23m9.1s
+
+2019/01/05 20:42:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6878
+Transferred:            0
+Elapsed time:     24m9.1s
+
+2019/01/05 20:43:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8073
+Transferred:            0
+Elapsed time:     25m9.1s
+
+2019/01/05 20:44:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8553
+Transferred:            0
+Elapsed time:     26m9.1s
+
+2019/01/05 20:45:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9258
+Transferred:            0
+Elapsed time:     27m9.1s
+
+2019/01/05 20:46:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9617
+Transferred:            0
+Elapsed time:     28m9.1s
+
+2019/01/05 20:47:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10228
+Transferred:            0
+Elapsed time:     29m9.1s
+
+2019/01/05 20:48:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10489
+Transferred:            0
+Elapsed time:     30m9.1s
+
+2019/01/05 20:49:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10716
+Transferred:            0
+Elapsed time:     31m9.1s
+
+2019/01/05 20:50:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11127
+Transferred:            0
+Elapsed time:     32m9.1s
+
+2019/01/05 20:51:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11388
+Transferred:            0
+Elapsed time:     33m9.1s
+
+2019/01/05 20:52:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11634
+Transferred:            0
+Elapsed time:     34m9.1s
+
+2019/01/05 20:52:47 INFO  : Google drive root 'My Games': Waiting for checks to finish
+2019/01/05 20:52:47 INFO  : Google drive root 'My Games': Waiting for transfers to finish
+2019/01/05 20:52:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11680
+Transferred:            0
+Elapsed time:    34m36.8s
+
+################# rclone Games GoogleDrive copy Running...   Sat  5 Jan 20:52:47 GMT 2019
+2019/01/05 20:53:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               324
+Transferred:            0
+Elapsed time:      1m0.4s
+
+2019/01/05 20:54:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               463
+Transferred:            0
+Elapsed time:      2m0.4s
+
+2019/01/05 20:55:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               654
+Transferred:            0
+Elapsed time:      3m0.4s
+
+2019/01/05 20:56:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1150
+Transferred:            0
+Elapsed time:      4m0.4s
+
+2019/01/05 20:57:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1963
+Transferred:            0
+Elapsed time:      5m0.4s
+
+2019/01/05 20:58:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1999
+Transferred:            0
+Elapsed time:      6m0.4s
+
+2019/01/05 20:59:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2813
+Transferred:            0
+Elapsed time:      7m0.4s
+
+2019/01/05 21:00:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3204
+Transferred:            0
+Elapsed time:      8m0.4s
+
+2019/01/05 21:01:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3367
+Transferred:            0
+Elapsed time:      9m0.4s
+
+2019/01/05 21:02:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3767
+Transferred:            0
+Elapsed time:     10m0.4s
+
+2019/01/05 21:03:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4026
+Transferred:            0
+Elapsed time:     11m0.4s
+
+2019/01/05 21:04:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4218
+Transferred:            0
+Elapsed time:     12m0.4s
+
+2019/01/05 21:05:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4494
+Transferred:            0
+Elapsed time:     13m0.4s
+
+2019/01/05 21:06:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4741
+Transferred:            0
+Elapsed time:     14m0.4s
+
+2019/01/05 21:07:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              5594
+Transferred:            0
+Elapsed time:     15m0.4s
+
+2019/01/05 21:08:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              5874
+Transferred:            0
+Elapsed time:     16m0.4s
+
+2019/01/05 21:09:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6257
+Transferred:            0
+Elapsed time:     17m0.4s
+
+2019/01/05 21:10:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              7822
+Transferred:            0
+Elapsed time:     18m0.4s
+
+2019/01/05 21:11:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8963
+Transferred:            0
+Elapsed time:     19m0.4s
+
+2019/01/05 21:12:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9464
+Transferred:            0
+Elapsed time:     20m0.4s
+
+2019/01/05 21:13:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9695
+Transferred:            0
+Elapsed time:     21m0.4s
+
+2019/01/05 21:14:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9957
+Transferred:            0
+Elapsed time:     22m0.4s
+
+2019/01/05 21:15:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10737
+Transferred:            0
+Elapsed time:     23m0.4s
+
+2019/01/05 21:16:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11077
+Transferred:            0
+Elapsed time:     24m0.4s
+
+2019/01/05 21:17:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11252
+Transferred:            0
+Elapsed time:     25m0.4s
+
+2019/01/05 21:18:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11522
+Transferred:            0
+Elapsed time:     26m0.4s
+
+2019/01/05 21:19:17 INFO  : Local file system at /mnt/freenas/Backups/My Games: Waiting for checks to finish
+2019/01/05 21:19:17 INFO  : Local file system at /mnt/freenas/Backups/My Games: Waiting for transfers to finish
+2019/01/05 21:19:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11680
+Transferred:            0
+Elapsed time:    26m30.1s
+
+################# rclone Personal local copy Running...   Sat  5 Jan 21:19:17 GMT 2019
+2019/01/05 21:19:18 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 21:19:18 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 21:19:18 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 21:19:18 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: can't update a google document
+2019/01/05 21:20:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              1475
+Transferred:            0
+Elapsed time:      1m0.4s
+
+2019/01/05 21:21:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              2468
+Transferred:            0
+Elapsed time:      2m0.4s
+
+2019/01/05 21:22:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              2475
+Transferred:            0
+Elapsed time:      3m0.4s
+
+2019/01/05 21:23:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              4125
+Transferred:            0
+Elapsed time:      4m0.4s
+
+2019/01/05 21:24:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              4276
+Transferred:            0
+Elapsed time:      5m0.4s
+
+2019/01/05 21:25:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              4896
+Transferred:            0
+Elapsed time:      6m0.4s
+
+2019/01/05 21:26:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              5134
+Transferred:            0
+Elapsed time:      7m0.4s
+
+2019/01/05 21:27:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              5559
+Transferred:            0
+Elapsed time:      8m0.4s
+
+2019/01/05 21:27:27 INFO  : Google drive root 'Personal': Waiting for checks to finish
+2019/01/05 21:27:27 INFO  : Google drive root 'Personal': Waiting for transfers to finish
+2019/01/05 21:27:27 ERROR : Attempt 1/3 failed with 1 errors and: can't update a google document
+2019/01/05 21:27:28 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 21:27:28 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 21:27:28 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 21:27:28 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: can't update a google document
+2019/01/05 21:28:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              6619
+Transferred:            0
+Elapsed time:      9m0.4s
+
+2019/01/05 21:29:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              7451
+Transferred:            0
+Elapsed time:     10m0.4s
+
+2019/01/05 21:30:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              7842
+Transferred:            0
+Elapsed time:     11m0.4s
+
+2019/01/05 21:31:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              8257
+Transferred:            0
+Elapsed time:     12m0.4s
+
+2019/01/05 21:32:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              8688
+Transferred:            0
+Elapsed time:     13m0.4s
+
+2019/01/05 21:33:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:              9867
+Transferred:            0
+Elapsed time:     14m0.4s
+
+2019/01/05 21:34:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             10887
+Transferred:            0
+Elapsed time:     15m0.4s
+
+2019/01/05 21:35:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             11162
+Transferred:            0
+Elapsed time:     16m0.4s
+
+2019/01/05 21:36:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             11422
+Transferred:            0
+Elapsed time:     17m0.4s
+
+2019/01/05 21:36:23 INFO  : Google drive root 'Personal': Waiting for checks to finish
+2019/01/05 21:36:23 INFO  : Google drive root 'Personal': Waiting for transfers to finish
+2019/01/05 21:36:23 ERROR : Attempt 2/3 failed with 1 errors and: can't update a google document
+2019/01/05 21:36:29 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 21:36:29 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 21:36:29 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 21:36:29 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: can't update a google document
+2019/01/05 21:37:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             11621
+Transferred:            0
+Elapsed time:     18m0.4s
+
+2019/01/05 21:38:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             12640
+Transferred:            0
+Elapsed time:     19m0.4s
+
+2019/01/05 21:39:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             13429
+Transferred:            0
+Elapsed time:     20m0.4s
+
+2019/01/05 21:40:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             14008
+Transferred:            0
+Elapsed time:     21m0.4s
+
+2019/01/05 21:41:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             14940
+Transferred:            0
+Elapsed time:     22m0.4s
+
+2019/01/05 21:42:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             15923
+Transferred:            0
+Elapsed time:     23m0.4s
+
+2019/01/05 21:43:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             16808
+Transferred:            0
+Elapsed time:     24m0.4s
+
+2019/01/05 21:44:17 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 1
+Checks:             17239
+Transferred:            0
+Elapsed time:     25m0.4s
+
+2019/01/05 21:44:26 INFO  : Google drive root 'Personal': Waiting for checks to finish
+2019/01/05 21:44:26 INFO  : Google drive root 'Personal': Waiting for transfers to finish
+2019/01/05 21:44:26 ERROR : Attempt 3/3 failed with 1 errors and: can't update a google document
+2019/01/05 21:44:26 Failed to copy: can't update a google document
+################# rclone Personal GoogleDrive copy Running...   Sat  5 Jan 21:44:26 GMT 2019
+2019/01/05 21:44:28 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 21:44:28 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 21:44:28 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 21:44:29 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/05 21:45:27 INFO  : 
+Transferred:   102.947 kBytes (1.699 kBytes/s)
+Errors:                 1
+Checks:               268
+Transferred:            0
+Elapsed time:      1m0.5s
+
+2019/01/05 21:46:27 INFO  : 
+Transferred:   102.947 kBytes (874 Bytes/s)
+Errors:                 1
+Checks:              1380
+Transferred:            0
+Elapsed time:      2m0.5s
+
+2019/01/05 21:47:27 INFO  : 
+Transferred:   102.947 kBytes (583 Bytes/s)
+Errors:                 1
+Checks:              2422
+Transferred:            0
+Elapsed time:      3m0.5s
+
+2019/01/05 21:48:27 INFO  : 
+Transferred:   102.947 kBytes (438 Bytes/s)
+Errors:                 1
+Checks:              2973
+Transferred:            0
+Elapsed time:      4m0.5s
+
+2019/01/05 21:49:27 INFO  : 
+Transferred:   102.947 kBytes (350 Bytes/s)
+Errors:                 1
+Checks:              2991
+Transferred:            0
+Elapsed time:      5m0.5s
+
+2019/01/05 21:50:27 INFO  : 
+Transferred:   102.947 kBytes (292 Bytes/s)
+Errors:                 1
+Checks:              3847
+Transferred:            0
+Elapsed time:      6m0.5s
+
+2019/01/05 21:51:27 INFO  : 
+Transferred:   102.947 kBytes (250 Bytes/s)
+Errors:                 1
+Checks:              4259
+Transferred:            0
+Elapsed time:      7m0.5s
+
+2019/01/05 21:52:27 INFO  : 
+Transferred:   102.947 kBytes (219 Bytes/s)
+Errors:                 1
+Checks:              4890
+Transferred:            0
+Elapsed time:      8m0.5s
+
+2019/01/05 21:53:27 INFO  : 
+Transferred:   102.947 kBytes (195 Bytes/s)
+Errors:                 1
+Checks:              5312
+Transferred:            0
+Elapsed time:      9m0.5s
+
+2019/01/05 21:54:10 INFO  : Local file system at /home/john/Documents/Personal: Waiting for checks to finish
+2019/01/05 21:54:10 INFO  : Local file system at /home/john/Documents/Personal: Waiting for transfers to finish
+2019/01/05 21:54:10 ERROR : Attempt 1/3 failed with 1 errors and: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/05 21:54:10 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 21:54:10 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 21:54:10 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 21:54:27 INFO  : 
+Transferred:   102.947 kBytes (175 Bytes/s)
+Errors:                 0
+Checks:              5773
+Transferred:            0
+Elapsed time:     10m0.5s
+Transferring:
+ * Finances/Finances_calc_2018.xlsx
+
+2019/01/05 21:54:47 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/05 21:55:27 INFO  : 
+Transferred:   205.765 kBytes (318 Bytes/s)
+Errors:                 1
+Checks:              6506
+Transferred:            0
+Elapsed time:     11m0.5s
+
+2019/01/05 21:56:27 INFO  : 
+Transferred:   205.765 kBytes (292 Bytes/s)
+Errors:                 1
+Checks:              6830
+Transferred:            0
+Elapsed time:     12m0.5s
+
+2019/01/05 21:57:27 INFO  : 
+Transferred:   205.765 kBytes (269 Bytes/s)
+Errors:                 1
+Checks:              7765
+Transferred:            0
+Elapsed time:     13m0.5s
+
+2019/01/05 21:58:27 INFO  : 
+Transferred:   205.765 kBytes (250 Bytes/s)
+Errors:                 1
+Checks:              8564
+Transferred:            0
+Elapsed time:     14m0.5s
+
+2019/01/05 21:59:27 INFO  : 
+Transferred:   205.765 kBytes (233 Bytes/s)
+Errors:                 1
+Checks:             10051
+Transferred:            0
+Elapsed time:     15m0.5s
+
+ 
+##################################################
+rclone initialised at Sat  5 Jan 22:00:01 GMT 2019
+##################################################
+ 
+################# rclone Apps local copy Running...   Sat  5 Jan 22:00:01 GMT 2019
+2019/01/05 22:00:02 INFO  : Google drive root 'Apps': Waiting for checks to finish
+2019/01/05 22:00:02 INFO  : Google drive root 'Apps': Waiting for transfers to finish
+2019/01/05 22:00:02 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                11
+Transferred:            0
+Elapsed time:        1.1s
+
+################# rclone Apps GoogleDrive copy Running...   Sat  5 Jan 22:00:02 GMT 2019
+2019/01/05 22:00:03 INFO  : Local file system at /home/john/Documents/Apps: Waiting for checks to finish
+2019/01/05 22:00:03 INFO  : Local file system at /home/john/Documents/Apps: Waiting for transfers to finish
+2019/01/05 22:00:03 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                11
+Transferred:            0
+Elapsed time:        1.1s
+
+################# rclone Books local copy Running...   Sat  5 Jan 22:00:03 GMT 2019
+2019/01/05 22:00:27 INFO  : 
+Transferred:   205.765 kBytes (219 Bytes/s)
+Errors:                 1
+Checks:             11186
+Transferred:            0
+Elapsed time:     16m0.5s
+
+2019/01/05 22:00:29 INFO  : Local file system at /home/john/Documents/Personal: Waiting for checks to finish
+2019/01/05 22:00:29 INFO  : Local file system at /home/john/Documents/Personal: Waiting for transfers to finish
+2019/01/05 22:00:29 ERROR : Attempt 2/3 failed with 1 errors and: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/05 22:00:29 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 22:00:29 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 22:00:29 NOTICE: Finances/Finances_calc_2018.xlsx: Duplicate object found in source - ignoring
+2019/01/05 22:00:31 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/05 22:01:04 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               116
+Transferred:            0
+Elapsed time:      1m0.4s
+
+2019/01/05 22:01:27 INFO  : 
+Transferred:   308.731 kBytes (309 Bytes/s)
+Errors:                 1
+Checks:             11946
+Transferred:            0
+Elapsed time:     17m0.5s
+
+2019/01/05 22:02:04 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               215
+Transferred:            0
+Elapsed time:      2m0.4s
+
+2019/01/05 22:02:27 INFO  : 
+Transferred:   308.731 kBytes (292 Bytes/s)
+Errors:                 1
+Checks:             13207
+Transferred:            0
+Elapsed time:     18m0.5s
+
+2019/01/05 22:03:04 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               324
+Transferred:            0
+Elapsed time:      3m0.4s
+
+2019/01/05 22:03:27 INFO  : 
+Transferred:   308.731 kBytes (277 Bytes/s)
+Errors:                 1
+Checks:             13767
+Transferred:            0
+Elapsed time:     19m0.5s
+
+2019/01/05 22:04:04 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               398
+Transferred:            0
+Elapsed time:      4m0.4s
+
+2019/01/05 22:04:27 INFO  : 
+Transferred:   308.731 kBytes (263 Bytes/s)
+Errors:                 1
+Checks:             15335
+Transferred:            0
+Elapsed time:     20m0.5s
+
+2019/01/05 22:05:04 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               567
+Transferred:            0
+Elapsed time:      5m0.4s
+
+2019/01/05 22:05:27 INFO  : 
+Transferred:   308.731 kBytes (250 Bytes/s)
+Errors:                 1
+Checks:             15719
+Transferred:            0
+Elapsed time:     21m0.5s
+
+2019/01/05 22:06:04 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               648
+Transferred:            0
+Elapsed time:      6m0.4s
+
+2019/01/05 22:06:27 INFO  : 
+Transferred:   308.731 kBytes (239 Bytes/s)
+Errors:                 1
+Checks:             16546
+Transferred:            0
+Elapsed time:     22m0.5s
+
+2019/01/05 22:07:04 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               987
+Transferred:            0
+Elapsed time:      7m0.4s
+
+2019/01/05 22:07:27 INFO  : 
+Transferred:   308.731 kBytes (228 Bytes/s)
+Errors:                 1
+Checks:             16970
+Transferred:            0
+Elapsed time:     23m0.5s
+
+2019/01/05 22:07:49 INFO  : Google drive root 'Books': Waiting for checks to finish
+2019/01/05 22:07:49 INFO  : Google drive root 'Books': Waiting for transfers to finish
+2019/01/05 22:07:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1159
+Transferred:            0
+Elapsed time:     7m45.7s
+
+################# rclone Books GoogleDrive copy Running...   Sat  5 Jan 22:07:49 GMT 2019
+2019/01/05 22:08:06 INFO  : Local file system at /home/john/Documents/Personal: Waiting for checks to finish
+2019/01/05 22:08:06 INFO  : Local file system at /home/john/Documents/Personal: Waiting for transfers to finish
+2019/01/05 22:08:06 ERROR : Attempt 3/3 failed with 1 errors and: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/05 22:08:06 Failed to copy: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+################# rclone Work local copy Running...   Sat  5 Jan 22:08:06 GMT 2019
+2019/01/05 22:08:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               131
+Transferred:            0
+Elapsed time:      1m0.4s
+
+2019/01/05 22:09:07 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               247
+Transferred:            0
+Elapsed time:      1m0.5s
+
+2019/01/05 22:09:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               282
+Transferred:            0
+Elapsed time:      2m0.4s
+
+2019/01/05 22:10:07 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               351
+Transferred:            0
+Elapsed time:      2m0.5s
+
+2019/01/05 22:10:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               491
+Transferred:            0
+Elapsed time:      3m0.4s
+
+2019/01/05 22:11:07 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               351
+Transferred:            0
+Elapsed time:      3m0.5s
+
+2019/01/05 22:11:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               606
+Transferred:            0
+Elapsed time:      4m0.4s
+
+2019/01/05 22:12:00 INFO  : Google drive root 'Work Personal': Waiting for checks to finish
+2019/01/05 22:12:00 INFO  : Google drive root 'Work Personal': Waiting for transfers to finish
+2019/01/05 22:12:00 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               367
+Transferred:            0
+Elapsed time:     3m53.7s
+
+################# rclone Work GoogleDrive copy Running...   Sat  5 Jan 22:12:00 GMT 2019
+2019/01/05 22:12:43 INFO  : Local file system at /home/john/Work/Work Personal: Waiting for checks to finish
+2019/01/05 22:12:43 INFO  : Local file system at /home/john/Work/Work Personal: Waiting for transfers to finish
+2019/01/05 22:12:43 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               367
+Transferred:            0
+Elapsed time:       42.7s
+
+################# rclone Pictures local copy Running...   Sat  5 Jan 22:12:43 GMT 2019
+2019/01/05 22:12:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               714
+Transferred:            0
+Elapsed time:      5m0.4s
+
+2019/01/05 22:12:51 INFO  : Google drive root 'Google Photos': Waiting for checks to finish
+2019/01/05 22:12:51 INFO  : Google drive root 'Google Photos': Waiting for transfers to finish
+2019/01/05 22:12:51 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6769
+Transferred:            0
+Elapsed time:        7.8s
+
+################# rclone Pictures GoogleDrive copy Running...   Sat  5 Jan 22:12:51 GMT 2019
+2019/01/05 22:13:22 INFO  : Local file system at /home/john/Pictures/Google Photos: Waiting for checks to finish
+2019/01/05 22:13:22 INFO  : Local file system at /home/john/Pictures/Google Photos: Waiting for transfers to finish
+2019/01/05 22:13:22 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6769
+Transferred:            0
+Elapsed time:       31.6s
+
+################# rclone images local copy Running...   Sat  5 Jan 22:13:22 GMT 2019
+2019/01/05 22:13:41 INFO  : Google drive root 'images': Waiting for checks to finish
+2019/01/05 22:13:41 INFO  : Google drive root 'images': Waiting for transfers to finish
+2019/01/05 22:13:41 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               281
+Transferred:            0
+Elapsed time:       18.6s
+
+################# rclone images GoogleDrive copy Running...   Sat  5 Jan 22:13:41 GMT 2019
+2019/01/05 22:13:43 INFO  : Local file system at /home/john/Pictures/images: Waiting for checks to finish
+2019/01/05 22:13:43 INFO  : Local file system at /home/john/Pictures/images: Waiting for transfers to finish
+2019/01/05 22:13:43 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               281
+Transferred:            0
+Elapsed time:        1.8s
+
+###########################################
+####### All rclone copies complete! #######   Sat  5 Jan 22:13:43 GMT 2019
+###########################################
+2019/01/05 22:13:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1044
+Transferred:            0
+Elapsed time:      6m0.4s
+
+2019/01/05 22:14:44 INFO  : Local file system at /home/john/Documents/Books: Waiting for checks to finish
+2019/01/05 22:14:44 INFO  : Local file system at /home/john/Documents/Books: Waiting for transfers to finish
+2019/01/05 22:14:44 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1159
+Transferred:            0
+Elapsed time:     6m55.2s
+
+################# rclone Comics local copy Running...   Sat  5 Jan 22:14:44 GMT 2019
+2019/01/05 22:15:47 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               784
+Transferred:            0
+Elapsed time:      1m2.3s
+
+2019/01/05 22:15:48 INFO  : Google drive root 'Comics': Waiting for checks to finish
+2019/01/05 22:15:48 INFO  : Google drive root 'Comics': Waiting for transfers to finish
+2019/01/05 22:15:48 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               812
+Transferred:            0
+Elapsed time:      1m3.4s
+
+################# rclone Comics GoogleDrive copy Running...   Sat  5 Jan 22:15:48 GMT 2019
+2019/01/05 22:16:29 INFO  : Local file system at /home/john/Documents/Comics: Waiting for checks to finish
+2019/01/05 22:16:29 INFO  : Local file system at /home/john/Documents/Comics: Waiting for transfers to finish
+2019/01/05 22:16:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               812
+Transferred:            0
+Elapsed time:       41.3s
+
+################# rclone House local copy Running...   Sat  5 Jan 22:16:29 GMT 2019
+2019/01/05 22:16:48 NOTICE: 49 Winchester Close/Paving Plan.xlsx: Duplicate object found in destination - ignoring
+2019/01/05 22:16:48 INFO  : Google drive root 'House': Waiting for checks to finish
+2019/01/05 22:16:48 INFO  : Google drive root 'House': Waiting for transfers to finish
+2019/01/05 22:16:48 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                14
+Transferred:            0
+Elapsed time:       18.9s
+
+################# rclone House GoogleDrive copy Running...   Sat  5 Jan 22:16:48 GMT 2019
+2019/01/05 22:16:49 NOTICE: 49 Winchester Close/Paving Plan.xlsx: Duplicate object found in source - ignoring
+2019/01/05 22:16:49 INFO  : Local file system at /home/john/Documents/House: Waiting for checks to finish
+2019/01/05 22:16:49 INFO  : Local file system at /home/john/Documents/House: Waiting for transfers to finish
+2019/01/05 22:16:49 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                14
+Transferred:            0
+Elapsed time:        1.1s
+
+################# rclone Games local copy Running...   Sat  5 Jan 22:16:49 GMT 2019
+2019/01/05 22:17:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               367
+Transferred:            0
+Elapsed time:      1m0.4s
+
+2019/01/05 22:18:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               873
+Transferred:            0
+Elapsed time:      2m0.4s
+
+2019/01/05 22:19:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1096
+Transferred:            0
+Elapsed time:      3m0.4s
+
+2019/01/05 22:20:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1684
+Transferred:            0
+Elapsed time:      4m0.4s
+
+2019/01/05 22:21:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1829
+Transferred:            0
+Elapsed time:      5m0.4s
+
+2019/01/05 22:22:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2162
+Transferred:            0
+Elapsed time:      6m0.4s
+
+2019/01/05 22:23:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2437
+Transferred:            0
+Elapsed time:      7m0.4s
+
+2019/01/05 22:24:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2752
+Transferred:            0
+Elapsed time:      8m0.4s
+
+2019/01/05 22:25:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2907
+Transferred:            0
+Elapsed time:      9m0.4s
+
+2019/01/05 22:26:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3250
+Transferred:            0
+Elapsed time:     10m0.4s
+
+2019/01/05 22:27:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3395
+Transferred:            0
+Elapsed time:     11m0.4s
+
+2019/01/05 22:28:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3612
+Transferred:            0
+Elapsed time:     12m0.4s
+
+2019/01/05 22:29:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3847
+Transferred:            0
+Elapsed time:     13m0.4s
+
+2019/01/05 22:30:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4072
+Transferred:            0
+Elapsed time:     14m0.4s
+
+2019/01/05 22:31:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4233
+Transferred:            0
+Elapsed time:     15m0.4s
+
+2019/01/05 22:32:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4710
+Transferred:            0
+Elapsed time:     16m0.4s
+
+2019/01/05 22:33:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4773
+Transferred:            0
+Elapsed time:     17m0.4s
+
+2019/01/05 22:34:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              5776
+Transferred:            0
+Elapsed time:     18m0.4s
+
+2019/01/05 22:35:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6203
+Transferred:            0
+Elapsed time:     19m0.4s
+
+2019/01/05 22:36:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6703
+Transferred:            0
+Elapsed time:     20m0.4s
+
+2019/01/05 22:37:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              7462
+Transferred:            0
+Elapsed time:     21m0.4s
+
+2019/01/05 22:38:50 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8239
+Transferred:            0
+Elapsed time:     22m0.4s
+
+2019/01/06 10:00:06 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8527
+Transferred:            0
+Elapsed time:     23m0.4s
+
+ 
+##################################################
+rclone initialised at Sun  6 Jan 10:00:18 GMT 2019
+##################################################
+ 
+################# rclone Apps local copy Running...   Sun  6 Jan 10:00:18 GMT 2019
+2019/01/06 10:00:19 INFO  : Google drive root 'Apps': Waiting for checks to finish
+2019/01/06 10:00:19 INFO  : Google drive root 'Apps': Waiting for transfers to finish
+2019/01/06 10:00:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                11
+Transferred:            0
+Elapsed time:        1.5s
+
+################# rclone Apps GoogleDrive copy Running...   Sun  6 Jan 10:00:19 GMT 2019
+2019/01/06 10:00:20 INFO  : Local file system at /home/john/Documents/Apps: Waiting for checks to finish
+2019/01/06 10:00:20 INFO  : Local file system at /home/john/Documents/Apps: Waiting for transfers to finish
+2019/01/06 10:00:20 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                11
+Transferred:            0
+Elapsed time:        1.2s
+
+################# rclone Books local copy Running...   Sun  6 Jan 10:00:20 GMT 2019
+2019/01/06 10:01:06 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8527
+Transferred:            0
+Elapsed time:     24m0.4s
+
+2019/01/06 10:01:21 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                 2
+Transferred:            0
+Elapsed time:      1m0.5s
+
+2019/01/06 10:02:06 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8527
+Transferred:            0
+Elapsed time:     25m0.4s
+
+2019/01/06 10:02:21 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               104
+Transferred:            0
+Elapsed time:      2m0.5s
+
+2019/01/06 10:03:06 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8527
+Transferred:            0
+Elapsed time:     26m0.4s
+
+2019/01/06 10:03:21 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               398
+Transferred:            0
+Elapsed time:      3m0.5s
+
+2019/01/06 10:04:06 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8527
+Transferred:            0
+Elapsed time:     27m0.4s
+
+2019/01/06 10:04:21 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               543
+Transferred:            0
+Elapsed time:      4m0.5s
+
+2019/01/06 10:05:06 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8668
+Transferred:            0
+Elapsed time:     28m0.4s
+
+2019/01/06 10:05:21 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               831
+Transferred:            0
+Elapsed time:      5m0.5s
+
+2019/01/06 10:06:06 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8803
+Transferred:            0
+Elapsed time:     29m0.4s
+
+2019/01/06 10:06:21 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               969
+Transferred:            0
+Elapsed time:      6m0.5s
+
+2019/01/06 10:07:06 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9072
+Transferred:            0
+Elapsed time:     30m0.4s
+
+2019/01/06 10:07:18 INFO  : Google drive root 'Books': Waiting for checks to finish
+2019/01/06 10:07:18 INFO  : Google drive root 'Books': Waiting for transfers to finish
+2019/01/06 10:07:18 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1159
+Transferred:            0
+Elapsed time:     6m57.3s
+
+################# rclone Books GoogleDrive copy Running...   Sun  6 Jan 10:07:18 GMT 2019
+2019/01/06 10:08:06 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9552
+Transferred:            0
+Elapsed time:     31m0.4s
+
+2019/01/06 10:08:18 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               146
+Transferred:            0
+Elapsed time:      1m0.6s
+
+2019/01/06 10:09:06 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9756
+Transferred:            0
+Elapsed time:     32m0.4s
+
+2019/01/06 10:09:18 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               149
+Transferred:            0
+Elapsed time:      2m0.6s
+
+2019/01/06 10:10:06 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9967
+Transferred:            0
+Elapsed time:     33m0.4s
+
+2019/01/06 10:10:18 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               270
+Transferred:            0
+Elapsed time:      3m0.6s
+
+2019/01/06 10:11:06 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10290
+Transferred:            0
+Elapsed time:     34m0.4s
+
+2019/01/06 10:11:18 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               428
+Transferred:            0
+Elapsed time:      4m0.6s
+
+2019/01/06 10:12:06 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10674
+Transferred:            0
+Elapsed time:     35m0.4s
+
+2019/01/06 10:12:18 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               549
+Transferred:            0
+Elapsed time:      5m0.6s
+
+2019/01/06 10:13:06 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11183
+Transferred:            0
+Elapsed time:     36m0.4s
+
+2019/01/06 10:13:18 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               624
+Transferred:            0
+Elapsed time:      6m0.6s
+
+2019/01/06 10:14:06 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11413
+Transferred:            0
+Elapsed time:     37m0.4s
+
+2019/01/06 10:14:18 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               627
+Transferred:            0
+Elapsed time:      7m0.6s
+
+2019/01/06 10:15:06 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11659
+Transferred:            0
+Elapsed time:     38m0.4s
+
+2019/01/06 10:15:18 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               768
+Transferred:            0
+Elapsed time:      8m0.6s
+
+2019/01/06 10:15:28 INFO  : Google drive root 'My Games': Waiting for checks to finish
+2019/01/06 10:15:28 INFO  : Google drive root 'My Games': Waiting for transfers to finish
+2019/01/06 10:15:28 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             11680
+Transferred:            0
+Elapsed time:    38m22.8s
+
+################# rclone Games GoogleDrive copy Running...   Sun  6 Jan 10:15:28 GMT 2019
+2019/01/06 10:16:18 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               918
+Transferred:            0
+Elapsed time:      9m0.6s
+
+2019/01/06 10:16:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               158
+Transferred:            0
+Elapsed time:      1m0.5s
+
+2019/01/06 10:17:18 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               957
+Transferred:            0
+Elapsed time:     10m0.6s
+
+2019/01/06 10:17:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               454
+Transferred:            0
+Elapsed time:      2m0.5s
+
+2019/01/06 10:18:18 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1111
+Transferred:            0
+Elapsed time:     11m0.6s
+
+2019/01/06 10:18:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               944
+Transferred:            0
+Elapsed time:      3m0.5s
+
+2019/01/06 10:19:18 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1117
+Transferred:            0
+Elapsed time:     12m0.6s
+
+2019/01/06 10:19:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1433
+Transferred:            0
+Elapsed time:      4m0.5s
+
+2019/01/06 10:20:18 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1123
+Transferred:            0
+Elapsed time:     13m0.6s
+
+2019/01/06 10:20:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1887
+Transferred:            0
+Elapsed time:      5m0.5s
+
+2019/01/06 10:20:38 INFO  : Local file system at /home/john/Documents/Books: Waiting for checks to finish
+2019/01/06 10:20:38 INFO  : Local file system at /home/john/Documents/Books: Waiting for transfers to finish
+2019/01/06 10:20:38 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              1159
+Transferred:            0
+Elapsed time:    13m20.2s
+
+################# rclone Comics local copy Running...   Sun  6 Jan 10:20:38 GMT 2019
+2019/01/06 10:21:19 INFO  : Google drive root 'Comics': Waiting for checks to finish
+2019/01/06 10:21:19 INFO  : Google drive root 'Comics': Waiting for transfers to finish
+2019/01/06 10:21:19 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               812
+Transferred:            0
+Elapsed time:       40.7s
+
+################# rclone Comics GoogleDrive copy Running...   Sun  6 Jan 10:21:19 GMT 2019
+2019/01/06 10:21:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2038
+Transferred:            0
+Elapsed time:      6m0.5s
+
+2019/01/06 10:22:00 INFO  : Local file system at /home/john/Documents/Comics: Waiting for checks to finish
+2019/01/06 10:22:00 INFO  : Local file system at /home/john/Documents/Comics: Waiting for transfers to finish
+2019/01/06 10:22:00 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:               812
+Transferred:            0
+Elapsed time:       41.1s
+
+################# rclone House local copy Running...   Sun  6 Jan 10:22:00 GMT 2019
+2019/01/06 10:22:18 NOTICE: 49 Winchester Close/Paving Plan.xlsx: Duplicate object found in destination - ignoring
+2019/01/06 10:22:18 INFO  : Google drive root 'House': Waiting for checks to finish
+2019/01/06 10:22:18 INFO  : Google drive root 'House': Waiting for transfers to finish
+2019/01/06 10:22:18 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:                14
+Transferred:            0
+Elapsed time:       17.6s
+
+2019/01/06 10:22:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2623
+Transferred:            0
+Elapsed time:      7m0.5s
+
+2019/01/06 10:23:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              2846
+Transferred:            0
+Elapsed time:      8m0.5s
+
+2019/01/06 10:24:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3430
+Transferred:            0
+Elapsed time:      9m0.5s
+
+2019/01/06 10:25:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3437
+Transferred:            0
+Elapsed time:     10m0.5s
+
+2019/01/06 10:26:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              3831
+Transferred:            0
+Elapsed time:     11m0.5s
+
+2019/01/06 10:27:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4057
+Transferred:            0
+Elapsed time:     12m0.5s
+
+2019/01/06 10:28:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4057
+Transferred:            0
+Elapsed time:     13m0.5s
+
+2019/01/06 10:29:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              4962
+Transferred:            0
+Elapsed time:     14m0.5s
+
+2019/01/06 10:30:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              6711
+Transferred:            0
+Elapsed time:     15m0.5s
+
+2019/01/06 10:31:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              7364
+Transferred:            0
+Elapsed time:     16m0.5s
+
+2019/01/06 10:32:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8354
+Transferred:            0
+Elapsed time:     17m0.5s
+
+2019/01/06 10:33:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              8823
+Transferred:            0
+Elapsed time:     18m0.5s
+
+2019/01/06 10:34:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9520
+Transferred:            0
+Elapsed time:     19m0.5s
+
+2019/01/06 10:35:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:              9773
+Transferred:            0
+Elapsed time:     20m0.5s
+
+2019/01/06 10:36:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10204
+Transferred:            0
+Elapsed time:     21m0.5s
+
+2019/01/06 10:37:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10673
+Transferred:            0
+Elapsed time:     22m0.5s
+
+2019/01/06 10:38:29 INFO  : 
+Transferred:      0 Bytes (0 Bytes/s)
+Errors:                 0
+Checks:             10976
+Transferred:            0
+Elapsed time:     23m0.5s
+
+2019/01/06 11:29:20 Failed to create file system for "GoogleDrive:/Personal": didn't find section in config file
+2019/01/06 11:30:51 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/06 11:31:46 INFO  : 
+Transferred:   84.407 kBytes (1.370 kBytes/s)
+Errors:                 1
+Checks:               255
+Transferred:            0
+Elapsed time:      1m1.5s
+
+2019/01/06 11:32:46 INFO  : 
+Transferred:   84.407 kBytes (710 Bytes/s)
+Errors:                 1
+Checks:              1406
+Transferred:            0
+Elapsed time:      2m1.5s
+
+2019/01/06 11:33:46 INFO  : 
+Transferred:   84.407 kBytes (476 Bytes/s)
+Errors:                 1
+Checks:              2077
+Transferred:            0
+Elapsed time:      3m1.5s
+
+2019/01/06 11:34:46 INFO  : 
+Transferred:   84.407 kBytes (357 Bytes/s)
+Errors:                 1
+Checks:              2478
+Transferred:            0
+Elapsed time:      4m1.5s
+
+2019/01/06 11:35:46 INFO  : 
+Transferred:   84.407 kBytes (286 Bytes/s)
+Errors:                 1
+Checks:              3580
+Transferred:            0
+Elapsed time:      5m1.5s
+
+2019/01/06 11:36:46 INFO  : 
+Transferred:   84.407 kBytes (239 Bytes/s)
+Errors:                 1
+Checks:              3933
+Transferred:            0
+Elapsed time:      6m1.5s
+
+2019/01/06 11:36:49 INFO  : Local file system at /home/john/Documents/Personal: Waiting for checks to finish
+2019/01/06 11:36:49 INFO  : Local file system at /home/john/Documents/Personal: Waiting for transfers to finish
+2019/01/06 11:36:49 ERROR : Local file system at /home/john/Documents/Personal: not deleting files as there were IO errors
+2019/01/06 11:36:49 ERROR : Local file system at /home/john/Documents/Personal: not deleting directories as there were IO errors
+2019/01/06 11:36:49 ERROR : Attempt 1/3 failed with 1 errors and: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/06 11:37:19 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/06 11:37:46 INFO  : 
+Transferred:   169.023 kBytes (410 Bytes/s)
+Errors:                 1
+Checks:              5550
+Transferred:            0
+Elapsed time:      7m1.5s
+
+2019/01/06 11:38:46 INFO  : 
+Transferred:   169.023 kBytes (359 Bytes/s)
+Errors:                 1
+Checks:              5836
+Transferred:            0
+Elapsed time:      8m1.5s
+
+2019/01/06 11:39:46 INFO  : 
+Transferred:   169.023 kBytes (319 Bytes/s)
+Errors:                 1
+Checks:              6748
+Transferred:            0
+Elapsed time:      9m1.5s
+
+2019/01/06 11:40:46 INFO  : 
+Transferred:   169.023 kBytes (287 Bytes/s)
+Errors:                 1
+Checks:              7562
+Transferred:            0
+Elapsed time:     10m1.5s
+
+2019/01/06 11:41:46 INFO  : 
+Transferred:   169.023 kBytes (261 Bytes/s)
+Errors:                 1
+Checks:              8251
+Transferred:            0
+Elapsed time:     11m1.5s
+
+2019/01/06 11:41:47 INFO  : Local file system at /home/john/Documents/Personal: Waiting for checks to finish
+2019/01/06 11:41:47 INFO  : Local file system at /home/john/Documents/Personal: Waiting for transfers to finish
+2019/01/06 11:41:47 ERROR : Local file system at /home/john/Documents/Personal: not deleting files as there were IO errors
+2019/01/06 11:41:47 ERROR : Local file system at /home/john/Documents/Personal: not deleting directories as there were IO errors
+2019/01/06 11:41:47 ERROR : Attempt 2/3 failed with 1 errors and: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/06 11:41:49 ERROR : Finances/Finances_calc_2018.xlsx: Failed to copy: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/06 11:42:46 INFO  : 
+Transferred:   253.465 kBytes (359 Bytes/s)
+Errors:                 1
+Checks:              9383
+Transferred:            0
+Elapsed time:     12m1.5s
+
+2019/01/06 11:43:46 INFO  : 
+Transferred:   253.465 kBytes (332 Bytes/s)
+Errors:                 1
+Checks:             10079
+Transferred:            0
+Elapsed time:     13m1.5s
+
+2019/01/06 11:44:46 INFO  : 
+Transferred:   253.465 kBytes (308 Bytes/s)
+Errors:                 1
+Checks:             10990
+Transferred:            0
+Elapsed time:     14m1.5s
+
+2019/01/06 11:45:46 INFO  : 
+Transferred:   253.465 kBytes (287 Bytes/s)
+Errors:                 1
+Checks:             11801
+Transferred:            0
+Elapsed time:     15m1.5s
+
+2019/01/06 11:46:46 INFO  : 
+Transferred:   253.465 kBytes (269 Bytes/s)
+Errors:                 1
+Checks:             12294
+Transferred:            0
+Elapsed time:     16m1.5s
+
+2019/01/06 11:46:50 INFO  : Local file system at /home/john/Documents/Personal: Waiting for checks to finish
+2019/01/06 11:46:50 INFO  : Local file system at /home/john/Documents/Personal: Waiting for transfers to finish
+2019/01/06 11:46:50 ERROR : Local file system at /home/john/Documents/Personal: not deleting files as there were IO errors
+2019/01/06 11:46:50 ERROR : Local file system at /home/john/Documents/Personal: not deleting directories as there were IO errors
+2019/01/06 11:46:50 ERROR : Attempt 3/3 failed with 1 errors and: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
+2019/01/06 11:46:50 Failed to sync: chtimes /home/john/Documents/Personal/Finances/Finances_calc_2018.xlsx: operation not permitted
